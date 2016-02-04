@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:id="0x7f0a0134" android:paddingLeft="10dp" android:paddingTop="10dp" android:paddingRight="10dp" android:paddingBottom="15dp" android:layout_width="-1" android:layout_height="-1" android:minWidth="240sp">
+        <Spinner android:id="0x7f0a02ea" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="15dp" android:prompt="0x7f0c01f6" />
+        <RelativeLayout android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="15dp">
+            <AutoCompleteTextView android:id="0x7f0a02eb" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f0c01f7" android:singleLine="true" android:inputType="4001" style="0x7f0d0152" />
+            <com.shamchat.activity.Yekanbtn android:id="0x7f0a02ec" android:background="0x1080038" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginRight="5dp" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</ScrollView>

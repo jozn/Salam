@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="50" android:orientation="1" android:id="0x7f0a00f5" android:background="0x7f08008a" android:layout_width="-1" android:layout_height="-1"
+    <RelativeLayout android:id="0x7f0a008a" android:layout_width="-1" android:layout_height="-2">
+        <LinearLayout android:orientation="1" android:id="0x7f0a023d" android:layout_width="-1" android:layout_height="-1" android:layout_margin="10dp" android:layout_above="0x7f0a0091">
+            <com.shamchat.activity.Yekanedit android:textSize="13sp" android:gravity="10" android:id="0x7f0a0085" android:background="0x7f08008a" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="60dp" android:hint="Describe your moment..." />
+        </LinearLayout>
+        <LinearLayout android:gravity="10" android:id="0x7f0a023e" android:background="0x7f08007f" android:layout_width="-1" android:layout_height="50dp" android:weightSum="10.0">
+            <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="0x7f08008a" android:id="0x7f0a01bd" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="10dp" android:text="Write" android:layout_weight="8.0" />
+            <ImageView android:id="0x7f0a023f" android:paddingLeft="-20dp" android:paddingRight="-20dp" android:layout_width="0dp" android:layout_height="-2" android:src="0x7f02024d" android:layout_weight="2.0" />
+        </LinearLayout>
+        <LinearLayout android:gravity="3" android:orientation="0" android:id="0x7f0a0091" android:background="#ffffff" android:layout_width="-1" android:layout_height="-2" android:weightSum="100.0" android:layout_above="0x7f0a0093" android:layout_alignParentRight="true"
+            <LinearLayout android:gravity="10" android:id="0x7f0a023e" android:background="#e6e6e6" android:layout_width="-1" android:layout_height="45dp" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true">
+                <ImageView android:id="0x7f0a0240" android:layout_width="35dp" android:layout_height="35dp" android:layout_margin="10dp" android:src="0x7f020238" />
+                <ImageView android:id="0x7f0a0241" android:layout_width="35dp" android:layout_height="35dp" android:layout_margin="10dp" android:src="0x7f0201f8" />
+                <ImageView android:id="0x7f0a0242" android:layout_width="35dp" android:layout_height="35dp" android:layout_margin="10dp" android:src="0x7f02025d" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:id="0x7f0a0093" android:background="#eeeeee" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true"
+            <LinearLayout android:id="0x7f0a009b" android:background="#eeeeee" android:visibility="2" android:layout_width="-1" android:layout_height="200dp" /> />
+    </RelativeLayout>
+</RelativeLayout>

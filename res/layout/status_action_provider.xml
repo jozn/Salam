@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <ImageButton android:id="0x7f0a02e7" android:background="0x106000d" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0201a8" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+</RelativeLayout>

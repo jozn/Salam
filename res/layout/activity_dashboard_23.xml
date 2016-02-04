@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:orientation="1" android:id="0x7f0a00db" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+        <android.support.v4.view.ViewPager android:id="0x7f0a00cd" android:layout_width="-1" android:layout_height="0dp" />
+    </LinearLayout>
+    <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0a00a3" android:background="0x7f08007f" android:padding="10dp" android:layout_width="-1" android:layout_height="65dp" android:layout_marginTop="1dp">
+        <ImageView android:padding="2dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020224" />
+        <com.shamchat.activity.Yekanedit android:id="0x7f0a00a8" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="6dp" android:layout_marginBottom="1dp" android:maxLines="1" android:layout_weight="0.55" android:inputType="4001" />
+        <requestFocus />
+        <ImageButton android:id="0x7f0a00ce" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020065" />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:background="0x7f080056" android:layout_width="-1" android:layout_height="50dp">
+        <ImageButton android:id="0x7f0a00d5" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f02004a" android:layout_weight="1.0" style="0x7f0d0148" />
+        <ImageButton android:id="0x7f0a00d6" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f0200d4" android:layout_weight="1.0" style="0x7f0d0148" />
+        <ImageButton android:id="0x7f0a00d3" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f0200d6" android:layout_weight="1.0" style="0x7f0d0148" />
+        <ImageButton android:id="0x7f0a00d4" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f020167" android:layout_weight="1.0" android:onClick="onFavoriteClick" style="0x7f0d0148" />
+        <ImageButton android:id="0x7f0a00d2" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f020224" android:layout_weight="1.0" style="0x7f0d0148" />
+        <ImageButton android:id="0x7f0a00d0" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f0201b1" android:layout_weight="1.0" style="0x7f0d0148" />
+        <com.shamchat.activity.Yekantext android:textColor="0x7f08008a" android:id="0x7f0a00d8" android:layout_width="0dp" android:layout_height="-1" android:layout_marginTop="3dp" android:text="0x7f0c008a" android:layout_weight="1.0" />
+        <ImageButton android:id="0x7f0a00d9" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f0201ce" android:layout_weight="1.0" style="0x7f0d0148" />
+    </LinearLayout>
+</LinearLayout>

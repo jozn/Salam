@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.app.FragmentTabHost android:id="0x1020012" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <FrameLayout android:id="0x7f0a0253" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+    </LinearLayout>
+</android.support.v4.app.FragmentTabHost>

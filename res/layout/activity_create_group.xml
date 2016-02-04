@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x7f02006d" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+        <ImageView android:layout_gravity="11" android:id="0x7f0a00ad" android:padding="20dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200f2" />
+        <com.shamchat.activity.Yekantext android:textSize="30sp" android:textColor="0x7f08007f" android:id="0x7f0a00ae" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0c00d8" />
+        <ListView android:layout_gravity="31" android:id="0x7f0a00af" android:padding="5dp" android:layout_width="-1" android:layout_height="-1" />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <ImageButton android:id="0x7f0a00b0" android:layout_width="0dp" android:layout_height="-2" android:src="0x7f020099" android:layout_weight="1.0" android:onClick="onClickCompose" style="0x7f0d0097" />
+        <ImageButton android:id="0x7f0a00a6" android:layout_width="0dp" android:layout_height="-2" android:src="0x7f02004b" android:layout_weight="1.0" android:onClick="onClickAdd" style="0x7f0d0097" />
+        <ImageButton android:id="0x7f0a00b1" android:layout_width="0dp" android:layout_height="-2" android:src="0x7f020220" android:layout_weight="1.0" android:onClick="onClickSave" style="0x7f0d0097" />
+    </LinearLayout>
+</LinearLayout>

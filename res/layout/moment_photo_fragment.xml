@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="1" android:orientation="1" android:background="#eeeeee" android:layout_width="-1" android:layout_height="200dp"
+    <LinearLayout android:id="0x7f0a0249" android:layout_width="-1" android:layout_height="-2" android:weightSum="10.0">
+        <com.shamchat.activity.Yekanbtn android:id="0x7f0a024a" android:background="#ffffff" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:layout_marginRight="10dp" android:text="Camera" android:layout_weight="5.0" />
+        <com.shamchat.activity.Yekanbtn android:id="0x7f0a024b" android:background="#ffffff" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:layout_marginRight="20dp" android:text="Gallery" android:layout_weight="5.0" />
+    </LinearLayout>
+    <HorizontalScrollView android:gravity="11" android:id="0x7f0a01fd" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="3dp" android:layout_marginBottom="5dp">
+        <LinearLayout android:gravity="11" android:id="0x7f0a01fe" android:layout_width="-1" android:layout_height="150dp" />
+    </HorizontalScrollView> />

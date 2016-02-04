@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+    <com.shamchat.roundedimage.RoundedImageView app:id="0x7f0a02af" app:layout_width="45dp" app:layout_height="45dp" app:layout_marginLeft="10dp" app:layout_marginRight="5dp" app:src="0x7f020203" app:layout_alignParentRight="true" app:layout_centerVertical="true" app:corner_radius="200dp" />
+    <TextView app:textColor="#ff3575bd" app:gravity="5" app:id="0x7f0a025d" app:layout_width="-1" app:layout_height="-2" app:layout_marginBottom="0dp" app:text="this is a test username" app:singleLine="true" app:layout_toLeftOf="0x7f0a02af" app:layout_toRightOf="0x7f0a02b0" app:layout_alignTop="0x7f0a02b0" app:layout_centerVertical="true" />
+    <TextView app:gravity="5" app:id="0x7f0a02b1" app:layout_width="-1" app:layout_height="-2" app:layout_marginTop="7dp" app:text="" app:layout_toLeftOf="0x7f0a02af" app:layout_toRightOf="0x7f0a02b0" app:layout_below="0x7f0a025d" />
+    <FrameLayout app:id="0x7f0a02b0" app:layout_width="-2" app:layout_height="-2">
+        <ImageView app:id="0x7f0a029c" app:background="#ffcecece" app:layout_width="45dp" app:layout_height="45dp" app:layout_marginLeft="5dp" app:layout_alignParentLeft="true" app:layout_centerVertical="true" />
+        <ImageView app:layout_gravity="55" app:id="0x7f0a02b2" app:layout_width="-2" app:layout_height="-2" app:layout_marginRight="5dp" app:layout_marginBottom="5dp" app:src="0x7f0201fc" />
+    </FrameLayout>
+</RelativeLayout>

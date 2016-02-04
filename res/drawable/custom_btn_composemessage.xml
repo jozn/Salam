@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_pressed="true">
+        <shape>
+            <solid android:color="#29a6f5" />
+            <corners android:radius="40dp" />
+        </shape>
+    </item>
+    <item android:state_focused="true">
+        <shape>
+            <solid android:color="#29a6f5" />
+            <corners android:radius="40dp" />
+        </shape>
+    </item>
+    <item android:state_focused="false">
+        <shape>
+            <solid android:color="#29a6f5" />
+            <corners android:radius="40dp" />
+        </shape>
+    </item>
+    <item android:state_pressed="false">
+        <shape>
+            <solid android:color="#29a6f5" />
+            <corners android:radius="40dp" />
+        </shape>
+    </item>
+</selector>

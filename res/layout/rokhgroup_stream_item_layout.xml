@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="#ffffffff" android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:layout_width="-1" android:layout_height="60dp">
+        <com.shamchat.roundedimage.RoundedImageView android:id="0x7f0a0281" android:layout_width="45dp" android:layout_height="45dp" android:layout_marginLeft="10dp" android:layout_marginRight="0x7f090043" android:src="0x7f020203" android:scaleType="1" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+        <com.shamchat.activity.Yekantext android:textColor="#ff3575bd" android:id="0x7f0a025d" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="2dp" android:layout_toLeftOf="0x7f0a0281" android:layout_alignTop="0x7f0a0281" />
+        <com.shamchat.activity.Yekantext android:textColor="#ffa1a1a1" android:id="0x7f0a0292" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0dp" android:layout_toLeftOf="0x7f0a0281" android:layout_below="0x7f0a025d" />
+    </RelativeLayout>
+    <FrameLayout android:id="0x7f0a0294" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f090043" android:layout_marginRight="0x7f090043">
+        <com.rokhgroup.utils.RokhImageView android:id="0x7f0a029c" android:layout_width="-1" android:layout_height="-2" android:layout_margin="0dp" />
+        <ImageView android:layout_gravity="53" android:id="0x7f0a02bf" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginBottom="5dp" android:src="0x7f020074" />
+    </FrameLayout>
+    <RelativeLayout android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f090043" android:layout_marginTop="8dp" android:layout_marginRight="0x7f090043">
+        <ImageView android:id="0x7f0a02c0" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginBottom="5dp" android:layout_centerVertical="true" />
+        <ImageView android:id="0x7f0a02c1" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginLeft="10dp" android:layout_marginBottom="10dp" android:src="0x7f0200a8" android:layout_toRightOf="0x7f0a02c0" android:layout_centerVertical="true" />
+        <ImageView android:id="0x7f0a02c2" android:visibility="2" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginLeft="10dp" android:src="0x7f0201e4" android:layout_toRightOf="0x7f0a02c1" android:layout_centerVertical="true" />
+        <ImageView android:id="0x7f0a02c3" android:visibility="2" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginLeft="10dp" android:src="0x7f020163" android:layout_toRightOf="0x7f0a02c2" android:layout_centerVertical="true" />
+        <ImageView android:id="0x7f0a02a0" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginRight="2dp" android:src="0x7f0200a9" android:layout_toLeftOf="0x7f0a02a1" android:layout_centerVertical="true" />
+        <com.shamchat.activity.Yekantext android:textColor="#ff548bc9" android:id="0x7f0a02a1" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="11dp" android:layout_toLeftOf="0x7f0a02a2" android:layout_centerVertical="true" />
+        <ImageView android:id="0x7f0a02a2" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginRight="2dp" android:src="0x7f0201b2" android:layout_toLeftOf="0x7f0a02a3" android:layout_centerVertical="true" />
+        <com.shamchat.activity.Yekantext android:textColor="#ff548bc9" android:id="0x7f0a02a3" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</LinearLayout>

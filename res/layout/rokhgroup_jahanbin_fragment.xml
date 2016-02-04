@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <GridView android:gravity="11" android:id="0x7f0a02ad" android:focusable="true" android:scrollbars="0" android:clickable="true" android:animationCache="false" android:layout_width="-1" android:layout_height="-2" android:drawSelectorOnTop="true" android:scrollingCache="false" android:horizontalSpacing="1dp" android:verticalSpacing="1dp" android:stretchMode="2" android:numColumns="-1" android:fastScrollEnabled="true" />
+    <com.shamchat.activity.Yekantext android:gravity="11" android:id="0x7f0a02ae" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:text="موردی برای نمایش یافت نشد" />
+</LinearLayout>

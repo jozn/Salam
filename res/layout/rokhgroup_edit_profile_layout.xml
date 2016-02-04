@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView app:background="#f6f6f6" app:padding="0x7f090043" app:scrollbars="0" app:layout_width="-1" app:layout_height="-1">
+    <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1" app:layout_margin="5dp"
+        <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0">
+            <FrameLayout app:layout_width="-1" app:layout_height="-2">
+                <com.shamchat.roundedimage.RoundedImageView app:layout_gravity="1" app:id="0x7f0a0286" app:layout_width="200dp" app:layout_height="200dp" app:src="0x7f020203" app:scaleType="6" app:corner_radius="200dp" />
+                <LinearLayout app:layout_gravity="11" app:orientation="0" app:id="0x7f0a0287" app:layout_width="-2" app:layout_height="-2">
+                    <ProgressBar app:layout_width="-2" app:layout_height="-2" style="?unknown_attr_ref: 1010077" />
+                </LinearLayout>
+            </FrameLayout>
+            <LinearLayout app:gravity="11" app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:layout_marginTop="10dp">
+                <Button app:textSize="16sp" app:id="0x7f0a0288" app:background="0x7f020095" app:layout_width="120dp" app:layout_height="120dp" app:layout_marginRight="12dp" />
+                <Button app:textSize="16sp" app:id="0x7f0a0289" app:background="0x7f020176" app:layout_width="120dp" app:layout_height="120dp" app:layout_marginLeft="12dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <com.shamchat.activity.Yekantext app:gravity="800005" app:layout_gravity="800005" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="0x7f090044" app:text="0x7f0c01da" />
+        <com.shamchat.activity.Yekanedit app:gravity="5" app:id="0x7f0a028a" app:layout_width="-1" app:layout_height="-2" />
+        <com.shamchat.activity.Yekanbtn app:id="0x7f0a028b" app:background="0x7f0200e6" app:layout_width="-1" app:layout_height="45dp" app:text="0x7f0c0235" />
+    </LinearLayout>
+</ScrollView>

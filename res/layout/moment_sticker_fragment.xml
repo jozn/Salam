@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="1" android:orientation="1" android:background="#ffffff" android:layout_width="-1" android:layout_height="200dp">
+    <com.shamchat.activity.Yekanbtn android:id="0x7f0a024d" android:background="#ffffff" android:padding="10dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="10dp" android:text="Stickers" />
+    <HorizontalScrollView android:layout_gravity="11" android:id="0x7f0a01fd" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="3dp" android:layout_marginBottom="5dp">
+        <LinearLayout android:id="0x7f0a01fe" android:layout_width="-1" android:layout_height="100dp" />
+    </HorizontalScrollView> />

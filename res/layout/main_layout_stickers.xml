@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="200dp"
+    <LinearLayout android:gravity="11" android:id="0x7f0a0224" android:background="#cbcbcb" android:layout_width="-2" android:layout_height="150dp" />
+    <LinearLayout android:gravity="11" android:id="0x7f0a0225" android:background="#fafafb" android:layout_width="-1" android:layout_height="50dp">
+        <HorizontalScrollView android:id="0x7f0a0226" android:layout_width="-1" android:layout_height="-2">
+            <LinearLayout android:gravity="11" android:id="0x7f0a0227" android:layout_width="-1" android:layout_height="50dp">
+                <ImageView android:id="0x7f0a0228" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="5dp" android:src="0x7f02009d" />
+            </LinearLayout>
+        </HorizontalScrollView>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="1" app:id="0x7f0a028d" app:layout_width="-1" app:layout_height="-1"
+    <LinearLayout app:gravity="11" app:orientation="1" app:id="0x7f0a028e" app:background="#ffffffff" app:layout_width="-1" app:layout_height="-1">
+        <ProgressBar app:layout_gravity="11" app:layout_width="-2" app:layout_height="-2" />
+    </LinearLayout>
+    <ScrollView app:orientation="1" app:background="#ffffffff" app:padding="0dp" app:scrollbars="0" app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0">
+        <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1" app:layout_marginLeft="0x7f090043" app:layout_marginRight="0x7f090043">
+            <RelativeLayout app:id="0x7f0a028f" app:layout_width="-1" app:layout_height="60dp">
+                <ImageView app:id="0x7f0a0290" app:visibility="2" app:layout_width="28dp" app:layout_height="28dp" app:src="0x7f02023c" app:layout_alignParentLeft="true" app:layout_centerVertical="true" />
+                <ImageView app:id="0x7f0a0291" app:layout_width="28dp" app:layout_height="28dp" app:src="0x7f020208" app:layout_alignParentLeft="true" app:layout_centerVertical="true" />
+                <com.shamchat.roundedimage.RoundedImageView app:id="0x7f0a0281" app:layout_width="45dp" app:layout_height="45dp" app:layout_marginLeft="10dp" app:src="0x7f020203" app:layout_alignParentRight="true" app:layout_centerVertical="true" app:corner_radius="200dp" />
+                <com.shamchat.activity.Yekantext app:textColor="#ff3575bd" app:id="0x7f0a025d" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="2dp" app:layout_toLeftOf="0x7f0a0281" app:layout_alignTop="0x7f0a0281" />
+                <com.shamchat.activity.Yekantext app:textColor="#ffa1a1a1" app:id="0x7f0a0292" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="0dp" app:layout_toLeftOf="0x7f0a0281" app:layout_below="0x7f0a025d" />
+            </RelativeLayout>
+            <View app:background="#fff0f3f5" app:layout_width="-1" app:layout_height="1dp" app:layout_marginTop="8dp" app:layout_marginBottom="8dp" />
+            <com.shamchat.activity.Yekantext app:textColor="#3b3b3b" app:id="0x7f0a0293" app:layout_width="-1" app:layout_height="-2" app:layout_marginTop="6dp" app:layout_marginBottom="6dp" />
+            <FrameLayout app:layout_gravity="11" app:id="0x7f0a0294" app:layout_width="-1" app:layout_height="-1">
+                <RelativeLayout app:background="#ff000000" app:layout_width="-1" app:layout_height="-1">
+                    <com.rokhgroup.video.RokhgroupVideoView app:id="0x7f0a0295" app:layout_width="-2" app:layout_height="-2" app:layout_centerInParent="true" />
+                    <ProgressBar app:id="0x7f0a0296" app:visibility="2" app:layout_width="32dp" app:layout_height="32dp" app:layout_centerInParent="true" />
+                    <RelativeLayout app:id="0x7f0a0297" app:background="#50000000" app:layout_width="-1" app:layout_height="70dp" app:layout_alignParentBottom="true">
+                        <ImageView app:id="0x7f0a0298" app:layout_width="40dp" app:layout_height="40dp" app:layout_marginLeft="15dp" app:src="0x7f02025a" app:layout_centerVertical="true" />
+                        <TextView app:textSize="14sp" app:textColor="#ff0177e1" app:gravity="10" app:id="0x7f0a0299" app:layout_width="-2" app:layout_height="-1" app:layout_marginLeft="10dp" app:text="00:00" app:layout_toRightOf="0x7f0a0298" app:layout_centerVertical="true" />
+                        <TextView app:textSize="14sp" app:textColor="0x106000b" app:gravity="10" app:id="0x7f0a029a" app:layout_width="-2" app:layout_height="-1" app:layout_marginRight="10dp" app:text="00:00" app:layout_alignParentRight="true" app:layout_centerVertical="true" />
+                        <SeekBar app:id="0x7f0a029b" app:layout_width="-1" app:layout_height="-2" app:layout_marginLeft="10dp" app:layout_marginRight="10dp" app:maxHeight="10dp" app:max="100" app:progress="0" app:minHeight="10dp" app:layout_toLeftOf="0x7f0a029a" app:layout_toRightOf="0x7f0a0299" app:layout_centerInParent="true" />
+                    </RelativeLayout>
+                    <com.rokhgroup.utils.RokhImageView app:id="0x7f0a029c" app:layout_width="-1" app:layout_height="-2" app:layout_margin="0dp" app:layout_centerInParent="true" />
+                    <ImageView app:id="0x7f0a029d" app:visibility="2" app:layout_width="-1" app:layout_height="-1" app:src="0x7f0201c3" />
+                    <ImageView app:id="0x7f0a029e" app:layout_width="-2" app:layout_height="-2" app:src="0x7f0201a2" app:layout_centerInParent="true" app:contentDescription="0x7f0c0072" />
+                </RelativeLayout>
+            </FrameLayout>
+            <RelativeLayout app:layout_width="-1" app:layout_height="-2" app:layout_marginLeft="0x7f090043" app:layout_marginTop="8dp" app:layout_marginRight="0x7f090043">
+                <ImageView app:id="0x7f0a029f" app:layout_width="32dp" app:layout_height="32dp" app:layout_alignParentLeft="true" app:layout_centerVertical="true" />
+                <ImageView app:id="0x7f0a02a0" app:layout_width="32dp" app:layout_height="32dp" app:layout_marginRight="2dp" app:src="0x7f0200a9" app:layout_toLeftOf="0x7f0a02a1" app:layout_centerVertical="true" />
+                <com.shamchat.activity.Yekantext app:textColor="#ff548bc9" app:id="0x7f0a02a1" app:layout_width="-2" app:layout_height="-2" app:layout_marginRight="11dp" app:layout_toLeftOf="0x7f0a02a2" app:layout_centerVertical="true" />
+                <ImageView app:id="0x7f0a02a2" app:layout_width="32dp" app:layout_height="32dp" app:layout_marginRight="2dp" app:src="0x7f0201b2" app:layout_toLeftOf="0x7f0a02a3" app:layout_centerVertical="true" />
+                <com.shamchat.activity.Yekantext app:textColor="#ff548bc9" app:id="0x7f0a02a3" app:layout_width="-2" app:layout_height="-2" app:layout_alignParentRight="true" app:layout_centerVertical="true" />
+            </RelativeLayout>
+            <LinearLayout app:orientation="1" app:id="0x7f0a02a4" app:layout_width="-1" app:layout_height="-1">
+                <View app:id="0x7f0a02a5" app:background="#fff0f3f5" app:layout_width="-1" app:layout_height="1dp" app:layout_marginLeft="0x7f090043" app:layout_marginTop="8dp" app:layout_marginRight="0x7f090043" app:layout_marginBottom="8dp" />
+                <com.shamchat.activity.Yekantext app:textSize="13sp" app:textColor="#ffd1d5dc" app:gravity="1" app:layout_gravity="11" app:id="0x7f0a02a6" app:layout_width="-1" app:layout_height="-2" app:text="نظری تا کنون به ثبت نرسیده است" app:textAlignment="4" />
+                <ProgressBar app:layout_gravity="11" app:id="0x7f0a02a7" app:visibility="2" app:layout_width="-2" app:layout_height="-2" style="?unknown_attr_ref: 1010079" />
+                <ListView app:id="0x7f0a02a8" app:layout_width="-1" app:layout_height="-2" app:layout_marginLeft="0x7f090043" app:layout_marginTop="0dp" app:layout_marginRight="0x7f090043" app:divider="#ffe4e4e4" app:dividerHeight="1px" />
+                <com.shamchat.activity.Yekanbtn app:id="0x7f0a02a9" app:layout_width="-1" app:layout_height="-2" app:layout_marginLeft="0x7f090043" app:layout_marginTop="5dp" app:layout_marginRight="0x7f090043" app:text="نمایش نظرات دیگر" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout app:gravity="10" app:orientation="0" app:id="0x7f0a02aa" app:background="#ffffffff" app:paddingLeft="0x7f090043" app:paddingTop="8dp" app:paddingRight="0x7f090043" app:paddingBottom="4dp" app:layout_width="-1" app:layout_height="-2">
+        <MultiAutoCompleteTextView app:textSize="14sp" app:id="0x7f0a02ab" app:layout_width="0dp" app:layout_height="-2" app:ems="10" app:completionThreshold="1" app:layout_weight="1.0" app:dropDownWidth="-2" />
+        <com.rokhgroup.utils.SendCommentButton app:orientation="1" app:id="0x7f0a02ac" app:background="0x7f02020d" app:focusable="true" app:layout_width="72dp" app:layout_height="-1" app:layout_marginLeft="8dp" app:layout_marginBottom="2dp" />
+    </LinearLayout>
+</LinearLayout>

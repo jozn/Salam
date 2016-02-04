@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="0x7f0a0139" android:background="0x7f02006e" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <ScrollView android:id="0x7f0a009e" android:layout_width="-1" android:layout_height="-1">
+            <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+                <HorizontalScrollView android:id="0x7f0a013a" android:background="0x7f0200f5" android:layout_width="-1" android:layout_height="95dp" android:layout_marginTop="10dp">
+                    <LinearLayout android:gravity="11" android:orientation="0" android:background="0x7f0200f5" android:layout_width="-1" android:layout_height="-1">
+                        <ImageView android:id="0x7f0a013b" android:layout_width="90dp" android:layout_height="90dp" android:src="0x7f020062" />
+                        <ImageView android:id="0x7f0a013c" android:layout_width="90dp" android:layout_height="90dp" android:src="0x7f020061" />
+                        <ImageView android:id="0x7f0a013d" android:layout_width="90dp" android:layout_height="90dp" android:src="0x7f020060" />
+                        <ImageView android:id="0x7f0a013e" android:layout_width="90dp" android:layout_height="90dp" android:src="0x7f02005f" />
+                        <ImageView android:id="0x7f0a013f" android:layout_width="90dp" android:layout_height="90dp" android:src="0x7f02005e" />
+                        <ImageView android:id="0x7f0a0140" android:layout_width="90dp" android:layout_height="90dp" android:src="0x7f020063" />
+                    </LinearLayout>
+                </HorizontalScrollView>
+                <LinearLayout android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp">
+                    <Button android:textColor="#ffffff" android:id="0x7f0a0141" android:background="0x7f0201ef" android:layout_width="90dp" android:layout_height="40dp" android:layout_marginRight="5dp" android:text="گالری" />
+                    <Button android:textColor="#ffffff" android:textColorHint="#ffffff" android:id="0x7f0a0142" android:background="0x7f0201ef" android:layout_width="90dp" android:layout_height="40dp" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:text="دوربین" />
+                    <Button android:textColor="#ffffff" android:id="0x7f0a0143" android:background="0x7f0200e6" android:layout_width="90dp" android:layout_height="40dp" android:layout_marginLeft="5dp" android:text="تایید" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</FrameLayout>

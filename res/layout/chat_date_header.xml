@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="0" android:id="0x7f0a00f5" android:layout_width="-1" android:layout_height="-2" android:layout_margin="5dp">
+    <ImageView android:id="0x7f0a0087" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="10dp" android:layout_toLeftOf="0x7f0a0145" android:layout_centerVertical="true" />
+    <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="15sp" android:id="0x7f0a0145" android:padding="3dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" android:text="Monday, December  09 , 2013" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+    <ImageView android:id="0x7f0a0146" android:layout_width="-2" android:layout_height="-2" android:layout_toRightOf="0x7f0a0145" android:layout_centerVertical="true" />
+</RelativeLayout>

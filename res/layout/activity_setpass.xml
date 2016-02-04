@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:gravity="11" android:orientation="1" android:background="0x7f0201b7" android:layout_width="-2" android:layout_height="200dp">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0a0121" android:layout_width="-2" android:layout_height="-2" android:text="Input password" />
+        <EditText android:id="0x7f0a0122" android:layout_width="190dp" android:layout_height="-2" android:ems="10" android:inputType="81" />
+        <LinearLayout android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="10dp" android:layout_marginBottom="30dp">
+            <Button android:textColor="#ffffff" android:id="0x7f0a0123" android:background="0x7f0200e6" android:layout_width="125dp" android:layout_height="50dp" android:src="0x7f0200e6" android:text="OK" />
+            <Button android:textColor="#ffffff" android:id="0x7f0a0124" android:background="0x7f02017b" android:layout_width="125dp" android:layout_height="50dp" android:layout_marginLeft="15dp" android:src="0x7f02017b" android:text="cancel" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

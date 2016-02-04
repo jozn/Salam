@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0c0060">
+        <com.shamchat.androidclient.preferences.EditTextPreferenceWithValue android:id="0x7f0a0066" android:hint="0x7f0c0010" android:singleLine="true" android:title="0x7f0c0048" android:key="account_jabberID" android:summary="0x7f0c0047" android:dialogTitle="0x7f0c0046" android:inputType="21" />
+        <Preference android:id="0x7f0a0067" android:title="0x7f0c0050" android:key="account_jabberPW" android:summary="0x7f0c004f" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0c0061">
+        <com.shamchat.androidclient.preferences.EditTextPreferenceWithValue android:id="0x7f0a0068" android:hint="0x7f0c005d" android:singleLine="true" android:title="0x7f0c005f" android:key="account_resource" android:summary="0x7f0c005e" android:dialogTitle="0x7f0c005c" />
+        <com.shamchat.androidclient.preferences.EditTextPreferenceWithValue android:id="0x7f0a0069" android:singleLine="true" android:numeric="3" android:title="0x7f0c005b" android:key="account_prio" android:summary="0x7f0c005a" android:dialogTitle="0x7f0c0058" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0c0053">
+        <CheckBoxPreference android:id="0x7f0a006a" android:title="0x7f0c008d" android:key="carbons" android:summary="0x7f0c008c" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0c0052">
+        <com.shamchat.androidclient.preferences.EditTextPreferenceWithValue android:id="0x7f0a006b" android:hint="0x7f0c0043" android:singleLine="true" android:title="0x7f0c0045" android:key="account_customserver" android:summary="0x7f0c0044" android:dialogTitle="0x7f0c0042" android:inputType="11" />
+        <com.shamchat.androidclient.preferences.EditTextPreferenceWithValue android:id="0x7f0a006c" android:hint="0x7f0c0055" android:singleLine="true" android:numeric="1" android:title="0x7f0c0057" android:key="account_port" android:summary="0x7f0c0056" android:dialogTitle="0x7f0c0054" />
+        <CheckBoxPreference android:id="0x7f0a006d" android:title="0x7f0c01ab" android:key="require_ssl" android:summary="0x7f0c01aa" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

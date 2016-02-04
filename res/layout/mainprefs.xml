@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0c0061">
+        <PreferenceScreen android:title="0x7f0c0013" android:summary="">
+            <intent android:targetPackage="org.zamin.androidclient" android:action="android.intent.action.MAIN" android:targetClass="org.zamin.androidclient.preferences.AccountPrefs" />
+        </PreferenceScreen>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0c0192">
+        <CheckBoxPreference android:id="0x7f0a0233" android:title="0x7f0c013d" android:key="led" android:summary="0x7f0c013c" android:defaultValue="true" />
+        <ListPreference android:entries="0x7f060006" android:id="0x7f0a0234" android:title="0x7f0c023d" android:key="vibration_list" android:summary="0x7f0c023c" android:defaultValue="SYSTEM" android:entryValues="0x7f060005" />
+        <RingtonePreference android:id="0x7f0a0235" android:title="0x7f0c01b3" android:key="ringtone" android:summary="0x7f0c01b2" android:ringtoneType="2" android:showDefault="true" android:showSilent="true" />
+        <CheckBoxPreference android:id="0x7f0a0236" android:title="0x7f0c0223" android:key="ticker" android:summary="0x7f0c0222" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0c0190">
+        <CheckBoxPreference android:id="0x7f0a0237" android:title="0x7f0c0202" android:key="showOffline" android:summary="0x7f0c0201" android:defaultValue="true" />
+        <CheckBoxPreference android:id="0x7f0a0238" android:title="0x7f0c0118" android:key="foregroundService" android:summary="0x7f0c0117" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0c018f">
+        <ListPreference android:entries="0x7f060003" android:title="0x7f0c018e" android:key="theme" android:defaultValue="dark" android:entryValues="0x7f060004" />
+        <ListPreference android:entries="0x7f060001" android:id="0x7f0a0239" android:title="0x7f0c000e" android:key="setSizeChat" android:summary="0x7f0c000d" android:defaultValue="18" android:dialogTitle="0x7f0c000c" android:entryValues="0x7f060002" />
+        <CheckBoxPreference android:id="0x7f0a023a" android:title="0x7f0c00ff" android:key="enableGroups" android:summary="0x7f0c00fe" android:defaultValue="true" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0c0191">
+        <CheckBoxPreference android:id="0x7f0a023b" android:title="0x7f0c0205" android:key="smackdebug" android:summary="0x7f0c0204" android:defaultValue="false" />
+        <CheckBoxPreference android:id="0x7f0a023c" android:title="0x7f0c01a9" android:key="reportcrash" android:summary="0x7f0c01a8" android:defaultValue="false" />
+    </PreferenceCategory>
+</PreferenceScreen>

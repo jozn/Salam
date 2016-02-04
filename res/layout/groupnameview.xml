@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <Spinner android:id="0x7f0a01cf" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="10dp" android:prompt="0x7f0c0007" />
+    <com.shamchat.activity.Yekanedit android:enabled="false" android:id="0x7f0a01d0" android:layout_width="-1" android:layout_height="-2" android:hint="0x7f0c001e" android:singleLine="true" android:visible="false" style="0x7f0d0152" />
+</merge>

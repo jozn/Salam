@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:minHeight="40dp"
+    <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0a0130" android:padding="10dp" android:clickable="true" android:layout_width="-1" android:layout_height="-2">
+        <com.shamchat.activity.Yekantext android:textSize="18sp" android:textColor="0x7f080056" android:gravity="3" android:id="0x7f0a0131" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="8dp" android:text="Sham ID" />
+        <com.shamchat.activity.Yekantext android:textSize="18sp" android:textColor="0x7f080056" android:gravity="5" android:id="0x7f0a0132" android:layout_width="-1" android:layout_height="-2" android:layout_marginRight="8dp" android:text="Dragon" />
+    </LinearLayout>
+    <LinearLayout android:gravity="11" android:orientation="0" android:id="0x7f0a0133" android:background="0x7f080058" android:layout_width="-1" android:layout_height="0.5dp" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" /> />

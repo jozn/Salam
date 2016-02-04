@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="0" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:minHeight="48dp">
+    <LinearLayout android:gravity="13" android:id="0x7f0a021b" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentLeft="false" android:layout_alignParentTop="false">
+        <RelativeLayout android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="5dp">
+            <ImageView android:id="0x7f0a012f" android:layout_width="0x7f090045" android:layout_height="0x7f090045" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:src="0x7f0201de" android:layout_alignParentLeft="true" android:layout_centerInParent="true" />
+            <com.shamchat.activity.Yekantext android:textSize="14sp" android:gravity="10" android:id="@id/text" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="50dp" android:text="settings name" android:layout_alignParentLeft="true" android:layout_centerInParent="true" />
+            <LinearLayout android:gravity="15" android:id="0x7f0a021c" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentTop="false" android:layout_alignParentRight="true">
+                <com.shamchat.activity.Yekantext android:textSize="12sp" android:id="0x7f0a021d" android:layout_width="-2" android:layout_height="-2" android:text="3G" />
+                <com.kyleduo.switchbutton.SwitchButton android:id="0x7f0a021e" style="0x7f0d0099" />
+                <com.shamchat.activity.Yekantext android:textSize="12sp" android:id="0x7f0a021f" android:layout_width="-2" android:layout_height="-2" android:text="wifi" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

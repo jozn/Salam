@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:gravity="31" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <com.shamchat.activity.homat android:id="0x7f0a019b" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="20dp" android:text="قلم نمونه" />
+        <com.shamchat.activity.yekant android:id="0x7f0a019c" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="20dp" android:text="قلم نمونه" />
+        <com.shamchat.activity.bnazanint android:id="0x7f0a019d" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="20dp" android:text="قلم نمونه" />
+        <SeekBar android:id="0x7f0a019e" android:layout_width="-1" android:layout_height="-2" android:max="38" />
+        <RadioButton android:id="0x7f0a019f" android:layout_width="-2" android:layout_height="-2" android:text="B Nazanin" />
+        <RadioButton android:id="0x7f0a01a0" android:layout_width="-2" android:layout_height="-2" android:text="Iran" />
+        <RadioButton android:id="0x7f0a01a1" android:layout_width="-2" android:layout_height="-2" android:text="Homa" />
+        <Button android:id="0x7f0a01a2" android:background="0x7f0200e6" android:layout_width="100dp" android:layout_height="40dp" android:text="Set" />
+    </LinearLayout>
+</FrameLayout>

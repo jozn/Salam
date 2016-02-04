@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="#e6e6e6" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="1" android:id="0x7f0a01f9" android:background="0x7f0201fb" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:layout_margin="10dp"
+        <LinearLayout android:id="0x7f0a01fa" android:layout_width="-2" android:layout_height="-2">
+            <ImageView android:id="0x7f0a0087" android:layout_width="30dp" android:layout_height="30dp" android:src="0x7f0201b8" />
+            <LinearLayout android:orientation="1" android:id="0x7f0a01f1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp">
+                <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:id="0x7f0a01f3" android:layout_width="-2" android:layout_height="-2" android:text="" />
+                <com.shamchat.activity.Yekantext android:textSize="10sp" android:id="0x7f0a0083" android:layout_width="-2" android:layout_height="-2" android:text="3 minutes ago" />
+            </LinearLayout>
+        </LinearLayout>
+        <com.shamchat.activity.Yekantext android:textSize="13sp" android:id="0x7f0a01f4" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="10dp" android:layout_marginBottom="7dp" android:text="Hello this is awesome " />
+        <HorizontalScrollView android:id="0x7f0a01fb" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="3dp" android:layout_marginBottom="5dp">
+            <LinearLayout android:id="0x7f0a01fc" android:layout_width="-1" android:layout_height="80dp" />
+        </HorizontalScrollView>
+        <HorizontalScrollView android:id="0x7f0a01fd" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="3dp" android:layout_marginBottom="5dp">
+            <LinearLayout android:id="0x7f0a01fe" android:layout_width="-1" android:layout_height="130dp" />
+        </HorizontalScrollView>
+        <RelativeLayout android:id="0x7f0a01ff" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="3dp">
+            <ImageView android:id="0x7f0a0200" android:visibility="0" android:layout_width="-2" android:layout_height="-1" android:src="0x7f020264" android:scaleType="5" android:layout_alignParentLeft="true" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+            <ImageView android:id="0x7f0a0201" android:visibility="0" android:layout_width="70dp" android:layout_height="80dp" android:src="0x7f020092" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <LinearLayout android:gravity="10" android:id="0x7f0a0202" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="5dp" android:layout_marginBottom="5dp">
+            <ImageView android:id="0x7f0a0146" android:layout_width="20dp" android:layout_height="20dp" android:src="0x7f0201d3" />
+            <com.shamchat.activity.Yekantext android:textSize="12sp" android:id="0x7f0a0203" android:layout_width="-2" android:layout_height="-2" android:text="Colombo, Sri lanka" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="10" android:id="0x7f0a0204" android:background="0x7f0201fb" android:layout_width="-1" android:layout_height="40dp" android:layout_marginLeft="10dp" android:layout_marginTop="-10dp" android:layout_marginRight="10dp"
+        <LinearLayout android:gravity="10" android:id="0x7f0a0205" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp">
+            <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x7f0a0206" android:padding="10dp" android:layout_width="-2" android:layout_height="-2" android:text="Like" />
+            <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:id="0x7f0a0080" android:layout_width="-2" android:layout_height="-2" android:layout_margin="15dp" android:text="-" />
+            <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x7f0a0207" android:padding="10dp" android:layout_width="-2" android:layout_height="-2" android:text="Comment" />
+        </LinearLayout>
+        <LinearLayout android:gravity="15" android:id="0x7f0a0208" android:layout_width="-1" android:layout_height="-2" android:layout_marginRight="5dp">
+            <ImageView android:id="0x7f0a0209" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020251" />
+            <com.shamchat.activity.Yekantext android:textSize="12sp" android:textStyle="1" android:id="0x7f0a020a" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="1000000" android:maxEms="3" android:singleLine="true" />
+            <ImageView android:id="0x7f0a0209" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020250" />
+            <com.shamchat.activity.Yekantext android:textSize="12sp" android:textStyle="1" android:id="0x7f0a020b" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp" android:text="1000000" android:maxEms="3" android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="10" android:id="0x7f0a020c" android:background="0x7f0201fb" android:layout_width="-1" android:layout_height="40dp" android:layout_marginLeft="10dp" android:layout_marginRight="10dp">
+        <ImageView android:id="0x7f0a0087" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginLeft="10dp" android:src="0x7f0201b8" />
+        <LinearLayout android:orientation="1" android:id="0x7f0a01f1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp"
+            <LinearLayout android:id="0x7f0a01f2" android:layout_width="-2" android:layout_height="-2">
+                <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:id="0x7f0a01f3" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="7dp" android:text="" />
+                <com.shamchat.activity.Yekantext android:textSize="10sp" android:id="0x7f0a0083" android:layout_width="-2" android:layout_height="-2" android:text="3 minutes ago" />
+            </LinearLayout>
+            <com.shamchat.activity.Yekantext android:textSize="10sp" android:id="0x7f0a01f4" android:layout_width="-2" android:layout_height="-2" android:text="Hello this is a comment" android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="10" android:id="0x7f0a020d" android:background="0x7f0201fb" android:layout_width="-1" android:layout_height="40dp" android:layout_marginLeft="10dp" android:layout_marginRight="10dp">
+        <ImageView android:id="0x7f0a0087" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginLeft="10dp" android:src="0x7f0201b8" />
+        <LinearLayout android:orientation="1" android:id="0x7f0a01f1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp"
+            <LinearLayout android:id="0x7f0a01f2" android:layout_width="-2" android:layout_height="-2">
+                <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:id="0x7f0a01f3" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="7dp" android:text="" />
+                <com.shamchat.activity.Yekantext android:textSize="10sp" android:id="0x7f0a0083" android:layout_width="-2" android:layout_height="-2" android:text="3 minutes ago" />
+            </LinearLayout>
+            <com.shamchat.activity.Yekantext android:textSize="10sp" android:id="0x7f0a01f4" android:layout_width="-2" android:layout_height="-2" android:text="Hello this is a comment" android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:gravity="10" android:id="0x7f0a020e" android:background="0x7f0201fb" android:layout_width="-1" android:layout_height="40dp" android:layout_marginLeft="10dp" android:layout_marginRight="10dp">
+        <ImageView android:id="0x7f0a0087" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginLeft="10dp" android:src="0x7f0201b8" />
+        <LinearLayout android:orientation="1" android:id="0x7f0a01f1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp"
+            <LinearLayout android:id="0x7f0a01f2" android:layout_width="-2" android:layout_height="-2">
+                <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:id="0x7f0a01f3" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="7dp" android:text="" />
+                <com.shamchat.activity.Yekantext android:textSize="10sp" android:id="0x7f0a0083" android:layout_width="-2" android:layout_height="-2" android:text="3 minutes ago" />
+            </LinearLayout>
+            <com.shamchat.activity.Yekantext android:textSize="10sp" android:id="0x7f0a01f4" android:layout_width="-2" android:layout_height="-2" android:text="Hello this is a comment" android:singleLine="true" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout app1:orientation="0" app1:layout_width="-1" app1:layout_height="-2" app1:layout_margin="5dp">
+    <LinearLayout app1:id="0x7f0a0187" app1:layout_width="-2" app1:layout_height="-2" app1:layout_alignParentLeft="true">
+        <com.shamchat.roundedimage.RoundedImageView app1:id="0x7f0a0188" app1:layout_width="60dp" app1:layout_height="60dp" app1:src="0x7f0201b8" app1:scaleType="6" app1:corner_radius="8dp" />
+    </LinearLayout>
+    <com.shamchat.activity.Yekantext app1:textSize="16sp" app1:textColor="#040404" app1:id="0x7f0a0189" app1:layout_width="-2" app1:layout_height="-2" app1:layout_marginLeft="10dp" app1:text="Emin Ayar" app1:layout_toRightOf="0x7f0a0187" app1:layout_centerVertical="true" />
+    <ImageButton app1:id="0x7f0a018a" app1:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" app1:layout_width="28dp" app1:layout_height="28dp" app1:layout_marginRight="15dp" app1:src="0x7f02022e" app1:scaleType="3" app1:adjustViewBounds="true" app1:cropToPadding="true" app1:layout_alignParentRight="true" app1:layout_centerVertical="true" />
+</RelativeLayout>

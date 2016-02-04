@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="50" android:orientation="1" android:id="0x7f0a00f5" android:background="#e6e6e6" android:layout_width="-1" android:layout_height="-1"
+    <RelativeLayout android:id="0x7f0a008a" android:layout_width="-1" android:layout_height="-2">
+        <ScrollView android:orientation="1" android:id="0x7f0a0243" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="50dp" android:layout_above="0x7f0a0091">
+            <LinearLayout android:orientation="1" android:id="0x7f0a0244" android:background="#e6e6e6" android:layout_width="-1" android:layout_height="-2"
+                <LinearLayout android:gravity="5" android:orientation="1" android:id="0x7f0a01f9" android:background="0x7f0201fb" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:layout_margin="7dp"
+                    <LinearLayout android:id="0x7f0a01fa" android:layout_width="-2" android:layout_height="-2">
+                        <ImageView android:id="0x7f0a0087" android:layout_width="30dp" android:layout_height="30dp" android:src="0x7f0201b8" />
+                        <LinearLayout android:orientation="1" android:id="0x7f0a01f1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp">
+                            <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:id="0x7f0a01f3" android:layout_width="-2" android:layout_height="-2" android:text="" />
+                            <com.shamchat.activity.Yekantext android:textSize="10sp" android:id="0x7f0a0083" android:layout_width="-2" android:layout_height="-2" android:text="3 minutes ago" />
+                        </LinearLayout>
+                    </LinearLayout>
+                    <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x7f0a01f4" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="7dp" android:layout_marginBottom="7dp" android:text="Hello this is awesome " />
+                    <HorizontalScrollView android:id="0x7f0a01fb" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="3dp" android:layout_marginBottom="5dp">
+                        <LinearLayout android:id="0x7f0a01fc" android:visibility="2" android:layout_width="-1" android:layout_height="80dp" />
+                    </HorizontalScrollView>
+                    <HorizontalScrollView android:id="0x7f0a01fd" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="3dp" android:layout_marginBottom="5dp">
+                        <LinearLayout android:id="0x7f0a01fe" android:layout_width="-1" android:layout_height="130dp" />
+                    </HorizontalScrollView>
+                    <RelativeLayout android:layout_gravity="11" android:id="0x7f0a01ff" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="3dp">
+                        <ImageView android:id="0x7f0a0201" android:background="0x7f08008a" android:visibility="2" android:layout_width="70dp" android:layout_height="80dp" android:src="0x7f020092" android:layout_centerHorizontal="true" android:layout_centerVertical="true" />
+                        <ImageView android:id="0x7f0a0200" android:visibility="0" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0201ae" android:scaleType="6" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+                    </RelativeLayout>
+                </LinearLayout>
+                <LinearLayout android:gravity="10" android:id="0x7f0a0204" android:background="0x7f0201fb" android:layout_width="-1" android:layout_height="40dp" android:layout_marginLeft="7dp" android:layout_marginTop="-10dp" android:layout_marginRight="7dp"
+                    <LinearLayout android:gravity="10" android:id="0x7f0a0205" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp">
+                        <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x7f0a0206" android:padding="10dp" android:layout_width="-2" android:layout_height="-2" android:text="Like" />
+                        <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:id="0x7f0a0080" android:layout_width="-2" android:layout_height="-2" android:layout_margin="15dp" android:text="-" />
+                        <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x7f0a0207" android:padding="10dp" android:layout_width="-2" android:layout_height="-2" android:text="Comment" />
+                    </LinearLayout>
+                </LinearLayout>
+                <HorizontalScrollView android:id="0x7f0a0245" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="3dp" android:layout_marginTop="3dp" android:layout_marginBottom="5dp">
+                    <LinearLayout android:id="0x7f0a0246" android:layout_width="-1" android:layout_height="40dp" />
+                </HorizontalScrollView>
+                <LinearLayout android:orientation="1" android:id="0x7f0a0247" android:layout_width="-2" android:layout_height="-2" /> />
+        </ScrollView>
+        <LinearLayout android:gravity="10" android:id="0x7f0a023e" android:background="0x7f08007f" android:layout_width="-1" android:layout_height="50dp" android:weightSum="10.0">
+            <ImageView android:id="0x7f0a0172" android:padding="10dp" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="-5dp" android:layout_marginRight="-5dp" android:src="0x7f020066" android:layout_weight="1.42" android:onClick="closeActivity" />
+            <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="0x7f08008a" android:id="0x7f0a0248" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="10dp" android:text="" android:layout_weight="9.0" />
+        </LinearLayout>
+        <LinearLayout android:gravity="3" android:orientation="0" android:id="0x7f0a0091" android:background="#ffffff" android:layout_width="-1" android:layout_height="50dp" android:weightSum="100.0" android:layout_above="0x7f0a0093" android:layout_alignParentRight="true"
+            <LinearLayout android:gravity="3" android:orientation="0" android:id="0x7f0a0091" android:background="#e6e6e6" android:padding="5dp" android:layout_width="-1" android:layout_height="-2" android:weightSum="100.0" android:layout_above="0x7f0a0093" android:layout_alignParentRight="true"
+                <LinearLayout android:id="0x7f0a0094" android:layout_width="-1" android:layout_height="-2" android:weightSum="39.0">
+                    <ImageView android:layout_gravity="10" android:id="0x7f0a0095" android:layout_width="-1" android:layout_height="-2" android:layout_marginRight="10dp" android:src="0x7f02009d" android:scaleType="5" android:cropToPadding="true" android:interpolator="0x10a000b" android:layout_weight="17.0" />
+                    <RelativeLayout android:layout_gravity="10" android:id="0x7f0a0097" android:layout_width="-1" android:layout_height="-2" android:layout_weight="5.0">
+                        <com.shamchat.activity.Yekanedit android:textColor="#000000" android:id="0x7f0a0099" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:hint="Enter your comment." android:ems="10" />
+                        <requestFocus />
+                    </RelativeLayout>
+                    <ImageView android:layout_gravity="10" android:id="0x7f0a009a" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:src="0x7f0200a3" android:layout_weight="17.0" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:id="0x7f0a0093" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true"
+            <LinearLayout android:id="0x7f0a009b" android:visibility="2" android:layout_width="-1" android:layout_height="200dp" /> />
+    </RelativeLayout>
+</RelativeLayout>

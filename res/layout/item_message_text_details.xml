@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="6dp">
+    <com.shamchat.activity.Yekantext android:textSize="15sp" android:textColor="0x7f080056" android:id="0x7f0a01de" android:layout_width="0dp" android:layout_height="-2" android:text="Medium Text" android:layout_weight="1.0" />
+    <ImageButton android:id="0x7f0a01e5" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:layout_width="0x7f090045" android:layout_height="0x7f090045" android:src="0x7f020162" style="0x7f0d014e" />
+    <ImageButton android:id="0x7f0a01e6" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:layout_width="0x7f090045" android:layout_height="0x7f090045" android:src="0x7f020163" style="0x7f0d014e" />
+    <ImageButton android:id="0x7f0a01e0" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:visibility="2" android:layout_width="0x7f090045" android:layout_height="0x7f090045" android:src="0x7f020165" style="0x7f0d014e" />
+    <ImageButton android:id="0x7f0a01e1" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:layout_width="0x7f090045" android:layout_height="0x7f090045" android:src="0x7f0201e4" style="0x7f0d014e" />
+</LinearLayout>

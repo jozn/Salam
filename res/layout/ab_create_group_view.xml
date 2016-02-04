@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="11" android:orientation="0" android:layout_width="-1" android:layout_height="-1">
+    <com.shamchat.activity.Yekantext android:textSize="18sp" android:textColor="0x7f08008a" android:id="0x7f0a002d" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="8dp" android:text="0x7f0c0124" />
+</LinearLayout>

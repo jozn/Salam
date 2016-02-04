@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:gravity="31" android:orientation="1" android:background="0x7f0201b7" android:layout_width="220dp" android:layout_height="220dp"
+        <LinearLayout android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="20dp" android:layout_marginBottom="20dp">
+            <ImageView android:id="0x7f0a01d1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:src="0x7f02019a" />
+            <ImageView android:id="0x7f0a01d2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:src="0x7f020192" />
+            <ImageView android:id="0x7f0a01d3" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:src="0x7f020193" />
+        </LinearLayout>
+        <LinearLayout android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="20dp" android:layout_marginBottom="20dp">
+            <ImageView android:id="0x7f0a01d4" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:src="0x7f020194" />
+            <ImageView android:id="0x7f0a01d5" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:src="0x7f020195" />
+            <ImageView android:id="0x7f0a01d6" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:src="0x7f020196" />
+        </LinearLayout>
+        <LinearLayout android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="20dp" android:layout_marginBottom="20dp">
+            <ImageView android:id="0x7f0a01d7" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:src="0x7f020197" />
+            <ImageView android:id="0x7f0a01d8" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:src="0x7f020198" />
+            <ImageView android:id="0x7f0a01d9" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:src="0x7f020199" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

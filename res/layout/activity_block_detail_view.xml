@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+        <LinearLayout android:orientation="1" android:id="0x7f0a0078" android:layout_width="-1" android:layout_height="-2">
+            <RelativeLayout android:id="0x7f0a0079" android:layout_width="-1" android:layout_height="320dp">
+                <ImageView android:id="0x7f0a007a" android:layout_width="-1" android:layout_height="-1" android:src="0x7f020203" android:scaleType="1" android:adjustViewBounds="true" android:maxHeight="320dp" android:minHeight="320dp" />
+            </RelativeLayout>
+            <LinearLayout android:gravity="1" android:layout_gravity="1" android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="12dp" android:layout_marginBottom="12dp">
+                <com.shamchat.activity.Yekanbtn android:id="0x7f0a007b" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="12dp" android:text="0x7f0c0146" android:layout_weight="1.0" style="0x7f0d0090" />
+                <View android:layout_width="12dp" android:layout_height="0dp" />
+                <com.shamchat.activity.Yekanbtn android:id="0x7f0a007c" android:layout_width="0dp" android:layout_height="-2" android:layout_marginRight="12dp" android:text="0x7f0c00e6" android:layout_weight="1.0" style="0x7f0d0090" />
+            </LinearLayout>
+            <ImageView android:id="0x7f0a007d" android:layout_width="-1" android:layout_height="1dp" android:src="0x7f080058" />
+            <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010041" android:id="0x7f0a007e" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="60dp" android:layout_marginTop="10dp" android:text="0x7f0c0152" />
+            <LinearLayout android:id="0x7f0a007f" android:visibility="2" android:layout_width="167dp" android:layout_height="-2" android:layout_marginLeft="100dp" android:layout_marginTop="10dp">
+                <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x7f0a0080" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0c012d" />
+                <CheckBox android:id="0x7f0a0081" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" />
+            </LinearLayout>
+            <LinearLayout android:id="0x7f0a0082" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="100dp" android:layout_marginBottom="20dp">
+                <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x7f0a0083" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0c00f0" />
+                <CheckBox android:id="0x7f0a0084" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="24dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

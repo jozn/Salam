@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="1" android:orientation="1" android:id="0x7f0a00cc" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="5" android:orientation="1" android:background="0x7f0201b7" android:layout_width="265dp" android:layout_height="200dp">
+        <ScrollView android:id="0x7f0a009e" android:layout_width="-1" android:layout_height="-2">
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+                <com.shamchat.activity.Yekantext android:textSize="20sp" android:textColor="#303030" android:gravity="5" android:id="0x7f0a0257" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginTop="10dp" android:layout_marginRight="5dp" android:text="Type here:" android:singleLine="false" android:lineSpacingExtra="2dp" />
+                <LinearLayout android:gravity="15" android:id="0x7f0a0258" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="20dp">
+                    <com.shamchat.activity.Yekantext android:textColor="#1515cb" android:id="0x7f0a00f9" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0c01d2" />
+                    <com.shamchat.activity.Yekancheck android:textSize="18sp" android:gravity="800013" android:id="0x7f0a0259" android:layout_width="-2" android:layout_height="-2" />
+                </LinearLayout>
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

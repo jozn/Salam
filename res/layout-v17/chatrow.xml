@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:padding="4dp" android:descendantFocusability="2" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+        <com.shamchat.activity.Yekantext android:textSize="11sp" android:textStyle="1" android:textColor="#8ff" android:ellipsize="3" android:id="0x7f0a016e" android:paddingRight="6dp" android:layout_width="-2" android:layout_height="-2" android:paddingEnd="6dp" />
+        <com.shamchat.activity.Yekantext android:textSize="11sp" android:textColor="#8ff" android:ellipsize="3" android:id="0x7f0a016f" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0c0092" android:singleLine="true" android:layout_weight="1.0" />
+        <ImageView android:layout_gravity="10" android:id="0x7f0a0170" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="6dp" android:src="0x7f02018d" android:layout_marginStart="6dp" />
+    </LinearLayout>
+    <com.shamchat.activity.Yekantext android:gravity="10" android:autoLink="f" android:id="0x7f0a0171" android:layout_width="-1" android:layout_height="-2" style="?unknown_attr_ref: 7f010005" />
+</LinearLayout>

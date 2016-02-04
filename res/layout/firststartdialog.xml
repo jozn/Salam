@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:orientation="1" android:paddingLeft="10dp" android:paddingTop="10dp" android:paddingRight="10dp" android:paddingBottom="15dp" android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+        <com.shamchat.activity.Yekantext android:id="0x7f0a0194" android:padding="10sp" android:focusable="true" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0c0023" android:drawablePadding="10sp" style="?unknown_attr_ref: 7f01000a" />
+        <com.shamchat.activity.Yekantext android:id="0x7f0a0195" android:padding="2sp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0c0025" style="?unknown_attr_ref: 7f01000a" />
+        <com.shamchat.androidclient.widget.AutoCompleteJidEdit android:textSize="18sp" android:gravity="3" android:id="0x7f0a0196" android:padding="10sp" android:layout_width="-1" android:layout_height="-2" android:maxWidth="200sp" android:hint="0x7f0c0010" android:singleLine="true" android:inputType="21" android:imeOptions="5" android:contentDescription="0x7f0c0025" style="0x7f0d0152" />
+        <com.shamchat.activity.Yekantext android:id="0x7f0a0197" android:padding="2sp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0c0029" style="?unknown_attr_ref: 7f01000a" />
+        <com.shamchat.activity.Yekanedit android:textSize="18sp" android:gravity="3" android:id="0x7f0a0198" android:padding="10sp" android:layout_width="-1" android:layout_height="-2" android:maxWidth="200sp" android:hint="0x7f0c002a" android:password="true" android:singleLine="true" android:contentDescription="0x7f0c0029" style="0x7f0d0152" />
+        <CheckBox android:id="0x7f0a0199" android:focusableInTouchMode="true" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0c0027" style="?unknown_attr_ref: 7f01000a" />
+        <com.shamchat.activity.Yekanedit android:textSize="18sp" android:gravity="3" android:id="0x7f0a019a" android:padding="10sp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:maxWidth="200sp" android:hint="0x7f0c002b" android:password="true" android:singleLine="true" android:contentDescription="0x7f0c0029" style="0x7f0d0152" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ScrollView android:id="0x7f0a009e" android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:orientation="1" android:id="0x7f0a00e6" android:layout_width="-1" android:layout_height="-1" android:weightSum="60.0"
+            <LinearLayout android:orientation="1" android:id="0x7f0a00e7" android:layout_width="-1" android:layout_height="-1" android:layout_weight="17.0"
+                <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+                    <ImageView android:id="0x7f0a00e8" android:paddingLeft="5dp" android:layout_width="-1" android:layout_height="-1" android:src="0x7f0201c0" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:id="0x7f0a00e9" android:layout_width="-1" android:layout_height="-1" android:layout_weight="25.0"
+                <LinearLayout android:orientation="1" android:id="0x7f0a00ea" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="25dp" android:layout_marginRight="25dp" android:layout_marginBottom="2dp" android:weightSum="4.0" android:layout_weight="4.0"
+                    <LinearLayout android:id="0x7f0a00eb" android:background="#f3f2f1" android:layout_width="-1" android:layout_height="-1" android:weightSum="6.0" android:layout_weight="2.0">
+                        <com.shamchat.activity.Yekanedit android:textSize="18sp" android:textColor="#000000" android:id="0x7f0a00ec" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:paddingLeft="10dp" android:layout_width="-1" android:layout_height="-1" android:hint="0x7f0c00fa" android:ems="10" android:layout_weight="3.0" android:inputType="1" android:imeOptions="5" />
+                    </LinearLayout>
+                    <LinearLayout android:id="0x7f0a00ed" android:background="#f3f2f1" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="2dp" android:weightSum="6.0" android:layout_weight="2.0">
+                        <com.shamchat.activity.Yekanedit android:textSize="18sp" android:textColor="#000000" android:id="0x7f0a00ee" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:paddingLeft="10dp" android:layout_width="-1" android:layout_height="-1" android:hint="0x7f0c00f6" android:ems="10" android:inputType="81" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:id="0x7f0a00ef" android:layout_width="-1" android:layout_height="-1" android:layout_weight="18.0"
+                <LinearLayout android:orientation="1" android:id="0x7f0a00f0" android:layout_width="-1" android:layout_height="-1" android:weightSum="12.0">
+                    <com.shamchat.activity.Yekantext android:textSize="13sp" android:textStyle="1" android:textColor="0x7f08000b" android:gravity="11" android:id="0x7f0a00f1" android:layout_width="-1" android:layout_height="-1" android:text="0x7f0c0119" android:layout_weight="4.0" />
+                    <com.shamchat.activity.Yekanbtn android:textSize="0x7f090058" android:textColor="0x7f08005a" android:id="0x7f0a00f2" android:background="#3598db" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:layout_marginBottom="0x7f090057" android:text="وارد شوید" android:layout_weight="4.0" />
+                    <com.shamchat.activity.Yekanbtn android:textSize="0x7f090058" android:textColor="0x7f08005a" android:id="0x7f0a00f3" android:background="#2dcc70" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:layout_marginBottom="0x7f090057" android:text="ثبت نام کنید" android:layout_weight="4.0" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

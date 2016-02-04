@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fontSizesChat">
+        <item>صغير</item>
+        <item>عادي</item>
+        <item>كبير</item>
+        <item>ضخم</item>
+    </string-array>
+    <string-array name="vibr_values_displayed">
+        <item>كلا</item>
+        <item>إعدادات الجهاز</item>
+        <item>دائما</item>
+    </string-array>
+</resources>

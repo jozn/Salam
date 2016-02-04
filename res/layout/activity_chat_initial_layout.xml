@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="50" android:orientation="1" android:id="0x7f0a0089" android:background="0x7f080056" android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:id="0x7f0a008a" android:layout_width="-1" android:layout_height="-2">
+        <com.shamchat.components.BlockingListView android:scrollbarSize="25dp" android:scrollbarAlwaysDrawVerticalTrack="true" android:id="0x7f0a008b" android:background="0x7f02006e" android:scrollbars="200" android:animationCache="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="-20dp" android:listSelector="#00000000" android:stackFromBottom="true" android:scrollingCache="false" android:transcriptMode="0" android:divider="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:layout_above="0x7f0a008c" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:smoothScrollbar="true" android:isScrollContainer="false" android:fadeScrollbars="false" />
+        <ProgressBar android:gravity="11" android:id="0x7f0a008d" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" />
+        <RelativeLayout android:gravity="11" android:id="0x7f0a008e" android:background="#b2b2b2" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="true">
+            <com.shamchat.activity.Yekanbtn android:id="0x7f0a008f" android:layout_width="100dp" android:layout_height="-2" android:text="0x7f0c013f" />
+            <ProgressBar android:id="0x7f0a0090" android:layout_width="20dp" android:layout_height="20dp" android:layout_marginLeft="35dp" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f0a008c" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:layout_width="-1" android:layout_height="20dp" android:layout_marginBottom="1dp" android:layout_above="0x7f0a0091">
+            <com.shamchat.activity.Yekantext android:textSize="15sp" android:textStyle="1" android:textColor="0x7f08007f" android:id="0x7f0a0092" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp" android:text="0x7f0c0234" />
+        </LinearLayout>
+        <LinearLayout android:gravity="3" android:orientation="0" android:id="0x7f0a0091" android:background="#ffffff" android:padding="5dp" android:visibility="0" android:layout_width="-1" android:layout_height="-2" android:weightSum="100.0" android:layout_above="0x7f0a0093" android:layout_alignParentRight="true"
+            <LinearLayout android:id="0x7f0a0094" android:layout_width="-1" android:layout_height="-2" android:weightSum="39.0">
+                <ImageView android:layout_gravity="10" android:id="0x7f0a0095" android:layout_width="-1" android:layout_height="-2" android:src="0x7f02009b" android:scaleType="5" android:cropToPadding="true" android:interpolator="0x10a000b" android:layout_weight="12.0" />
+                <ImageView android:layout_gravity="10" android:id="0x7f0a0096" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:src="0x7f02009f" android:layout_weight="11.0" />
+                <RelativeLayout android:layout_gravity="10" android:id="0x7f0a0097" android:layout_width="-1" android:layout_height="-2" android:layout_weight="5.0">
+                    <ImageView android:id="0x7f0a0098" android:layout_width="24dp" android:layout_height="24dp" android:layout_marginBottom="5dp" android:src="0x7f02009d" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+                    <com.shamchat.activity.Yekanedit android:textColor="#000000" android:id="0x7f0a0099" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:visibility="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:layout_marginRight="5dp" android:ems="10" android:layout_toLeftOf="0x7f0a0098" />
+                </RelativeLayout>
+                <ImageView android:layout_gravity="10" android:id="0x7f0a009a" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:src="0x7f0200a3" android:layout_weight="11.0" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:id="0x7f0a0093" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true"
+            <LinearLayout android:id="0x7f0a009b" android:visibility="2" android:layout_width="-1" android:layout_height="200dp">
+                <RelativeLayout android:id="0x7f0a009c" android:layout_width="-1" android:layout_height="-1" />
+            </LinearLayout>
+        </LinearLayout>
+        <com.agimind.widget.SlideHolder android:orientation="1" android:id="0x7f0a009d" android:layout_width="-1" android:layout_height="-1" android:layout_above="0x7f0a0091">
+            <ScrollView android:id="0x7f0a009e" android:background="0x7f08008a" android:layout_width="224dp" android:layout_height="-2">
+                <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+                    <LinearLayout android:orientation="1" android:paddingLeft="15dp" android:paddingRight="15dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp">
+                        <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010041" android:textStyle="1" android:textColor="0x7f08000b" android:id="0x7f0a009f" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0c0180" />
+                        <com.shamchat.activity.Yekanbtn android:textSize="13sp" android:textColor="0x7f08008a" android:id="0x7f0a00a0" android:background="0x7f02008f" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0c013b" />
+                        <com.shamchat.activity.Yekanbtn android:textSize="13sp" android:textColor="0x7f08008a" android:id="0x7f0a00a1" android:background="0x7f02008f" android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0c006a" />
+                    </LinearLayout>
+                    <ListView android:scrollbarAlwaysDrawVerticalTrack="true" android:id="0x7f0a00a2" android:background="0x7f08008a" android:scrollbars="200" android:layout_width="-2" android:layout_height="0dp" android:layout_marginTop="5dp" android:layout_marginBottom="135dp" android:transcriptMode="2" android:divider="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:smoothScrollbar="true" android:isScrollContainer="false" android:fadeScrollbars="false" />
+                </LinearLayout>
+            </ScrollView>
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1" />
+        </com.agimind.widget.SlideHolder>
+    </RelativeLayout> />

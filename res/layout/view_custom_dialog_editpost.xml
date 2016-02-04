@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.shamchat.activity.Yekantext android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:text="0x7f0c01c0" />
+    <com.shamchat.activity.Yekanedit android:textSize="18sp" android:id="0x7f0a02f6" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:hint="قدری صبر کنید..." />
+</LinearLayout>

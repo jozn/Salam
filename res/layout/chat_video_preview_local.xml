@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x7f08000b" android:layout_width="-1" android:layout_height="-1">
+    <FrameLayout android:layout_width="-1" android:layout_height="-1">
+        <com.shamchat.activity.Yekantext android:layout_gravity="11" android:id="0x7f0a0147" android:layout_width="-1" android:layout_height="-1" android:text="0x7f0c0142" />
+        <VideoView android:id="0x7f0a016d" android:layout_width="-1" android:layout_height="-1" />
+        <ProgressBar android:layout_gravity="11" android:id="0x7f0a0149" android:layout_width="-2" android:layout_height="-2" />
+        <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:textColor="0x7f080077" android:layout_gravity="11" android:id="0x7f0a014a" android:layout_width="-2" android:layout_height="-2" android:text="0%" />
+    </FrameLayout>
+</LinearLayout>

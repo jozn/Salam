@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="13" android:id="0x7f0a02ed" android:layout_width="-1" android:layout_height="-2" android:weightSum="5.0">
+        <ImageView android:id="0x7f0a02ee" android:layout_width="-2" android:layout_height="-2" android:src="0x1080004" android:scaleType="1" />
+        <LinearLayout android:orientation="1" android:id="0x7f0a02ef" android:layout_width="0dp" android:layout_height="-2" android:layout_marginTop="8dp" android:layout_weight="1.9">
+            <com.shamchat.activity.Yekantext android:textStyle="1" android:textColor="#002e52" android:id="0x7f0a02f0" android:layout_width="-2" android:layout_height="-2" android:text="Pasta" android:singleLine="true" />
+            <com.shamchat.activity.Yekantext android:textSize="11sp" android:textColor="#546b75" android:id="0x7f0a02f1" android:layout_width="-2" android:layout_height="-2" android:text="srgsrgsdrgsbngjbdsgdjbgjdbgjbdjgbdfjbgjdbgjb" />
+        </LinearLayout>
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f0a02f2" android:layout_width="0dp" android:layout_height="-2" android:layout_margin="8dp" android:layout_weight="1.65">
+            <ImageView android:id="0x7f0a02f3" android:visibility="1" android:layout_width="-2" android:layout_height="-2" android:src="0x1080075" />
+            <com.shamchat.activity.Yekantext android:textStyle="1" android:id="0x7f0a02f4" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:text="Rs. 450" android:singleLine="true" />
+            <com.shamchat.activity.Yekanbtn android:textSize="11sp" android:id="0x7f0a02f5" android:layout_width="-2" android:layout_height="30dp" android:layout_marginTop="-10dp" android:text="Downloading" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

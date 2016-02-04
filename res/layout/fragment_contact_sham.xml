@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f0a01ad" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="10dp" android:layout_marginRight="5dp"
+    <LinearLayout android:gravity="5" android:layout_gravity="5" android:orientation="0" android:id="0x7f0a00a9" android:clickable="true" android:layout_width="-2" android:layout_height="35dp" android:layout_marginRight="10dp">
+        <ImageView android:id="0x7f0a00aa" android:visibility="2" android:layout_width="25dp" android:layout_height="25dp" android:src="0x7f02020a" />
+        <ProgressBar android:id="0x7f0a00ab" android:visibility="2" android:layout_width="-2" android:layout_height="-2" />
+    </LinearLayout>
+    <ExpandableListView android:id="0x7f0a01ae" android:visibility="0" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="-15dp" android:listSelector="0x106000d" android:transcriptMode="0" android:groupIndicator="@mqttconnectoptions/MQTT_VERSION_DEFAULT" />
+    <LinearLayout android:gravity="11" android:id="0x7f0a01af" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+        <ProgressBar android:layout_gravity="11" android:id="0x7f0a00e1" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="10dp" />
+        <LinearLayout android:layout_gravity="11" android:orientation="1" android:id="0x7f0a01b0" android:layout_width="-2" android:layout_height="-2">
+            <com.shamchat.activity.Yekantext android:textSize="20sp" android:textStyle="1" android:textColor="0x7f08007f" android:gravity="11" android:layout_gravity="11" android:id="0x7f0a01b1" android:layout_width="-2" android:layout_height="-2" android:text="Loading..." />
+            <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x7f0a0083" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0c021d" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

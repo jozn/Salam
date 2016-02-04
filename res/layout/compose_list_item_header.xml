@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout app:orientation="1" app:id="0x7f0a00f5" app:paddingTop="10dp" app:layout_width="-1" app:layout_height="-1">
+    <com.shamchat.activity.Yekantext app:textSize="20sp" app:textColor="0x7f08007f" app:id="0x7f0a0174" app:visibility="2" app:layout_width="-1" app:layout_height="-2" app:layout_marginLeft="13dp" app:layout_marginBottom="3dp" app:text="0x7f0c0247" app:layout_alignParentLeft="true" app:layout_alignParentTop="true" />
+    <View app:orientation="0" app:id="0x7f0a0175" app:background="0x7f080058" app:visibility="2" app:layout_width="-1" app:layout_height="1dp" app:layout_marginLeft="7dp" app:layout_marginRight="7dp" app:layout_below="0x7f0a0174" app:layout_alignParentLeft="true" />
+    <com.shamchat.roundedimage.RoundedImageView app:id="@id/image" app:padding="2dp" app:layout_width="60dp" app:layout_height="60dp" app:src="0x7f0201b8" app:scaleType="1" app:layout_alignParentTop="true" app:layout_alignParentRight="true" app:corner_radius="200dp" />
+    <com.shamchat.activity.Yekantext app:textSize="15sp" app:textStyle="1" app:textColor="#303030" app:id="0x7f0a0176" app:layout_width="-2" app:layout_height="-2" app:text="0x7f0c0162" app:layout_toLeftOf="@id/image" app:layout_alignBottom="@id/checkbox" />
+    <CheckBox app:gravity="11" app:id="@id/checkbox" app:layout_width="-2" app:layout_height="-2" app:layout_marginRight="15dp" app:checkMark="?unknown_attr_ref: 101021a" app:layout_toLeftOf="0x7f0a0176" app:layout_alignTop="@id/image" />
+    <ImageView app:id="0x7f0a0177" app:visibility="2" app:layout_width="-2" app:layout_height="-2" app:src="0x7f0200e5" app:layout_alignTop="@id/checkbox" app:layout_alignParentLeft="true" />
+</RelativeLayout>

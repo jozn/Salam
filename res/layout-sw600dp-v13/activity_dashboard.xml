@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="1" app:background="0x7f02005c" app:layout_width="-1" app:layout_height="-1"
+    <LinearLayout app:gravity="5" app:background="0x7f08007f" app:layout_width="-1" app:layout_height="-2">
+        <RelativeLayout app:layout_width="-1" app:layout_height="58dp">
+            <LinearLayout app:orientation="0" app:id="0x7f0a00b3" app:layout_width="-2" app:layout_height="-2">
+                <ImageButton app:id="0x7f0a00b4" app:background="0x7f08007f" app:layout_width="56dp" app:layout_height="56dp" app:src="0x7f0200da" />
+                <ImageButton app:id="0x7f0a00b5" app:background="0x7f08007f" app:layout_width="56dp" app:layout_height="56dp" app:layout_marginLeft="7dp" app:src="0x7f02017c" />
+            </LinearLayout>
+            <LinearLayout app:gravity="5" app:orientation="1" app:id="0x7f0a00b6" app:layout_width="-2" app:layout_height="-1" app:layout_alignParentTop="true" app:layout_alignParentRight="true">
+                <ImageButton app:id="0x7f0a00b7" app:background="0x7f08007f" app:layout_width="56dp" app:layout_height="56dp" app:src="0x7f02020b" />
+            </LinearLayout>
+            <LinearLayout app:orientation="1" app:layout_width="-2" app:layout_height="-1" app:layout_toLeftOf="0x7f0a00b8" app:layout_alignParentTop="true">
+                <ImageButton app:id="0x7f0a00b9" app:background="0x7f08007f" app:layout_width="56dp" app:layout_height="56dp" app:src="0x7f02015d" />
+            </LinearLayout>
+            <LinearLayout app:orientation="1" app:id="0x7f0a00ba" app:layout_width="-2" app:layout_height="-1" app:layout_alignParentTop="true" app:layout_alignParentRight="true">
+                <ImageButton app:id="0x7f0a00bb" app:background="0x7f08007f" app:layout_width="56dp" app:layout_height="56dp" app:src="0x7f020222" />
+            </LinearLayout>
+            <LinearLayout app:orientation="1" app:id="0x7f0a00b8" app:layout_width="-2" app:layout_height="-1" app:layout_alignParentLeft="true" app:layout_alignParentTop="true">
+                <ImageButton app:id="0x7f0a00bc" app:background="0x7f08007f" app:layout_width="56dp" app:layout_height="56dp" app:src="0x7f020050" />
+            </LinearLayout>
+            <LinearLayout app:gravity="11" app:orientation="1" app:id="0x7f0a00bd" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="9dp" app:layout_alignParentTop="true" app:layout_centerInParent="true">
+                <FrameLayout app:id="0x7f0a00be" app:layout_width="40dp" app:layout_height="40dp" app:layout_alignParentLeft="true" app:layout_centerVertical="true">
+                    <ImageView app:id="0x7f0a00bf" app:background="0x7f02019e" app:layout_width="40dp" app:layout_height="40dp" app:layout_alignParentLeft="true" app:layout_centerVertical="true" />
+                    <TextView app:textSize="15sp" app:textColor="#ffffffff" app:gravity="11" app:layout_gravity="11" app:id="0x7f0a00c0" app:visibility="1" app:layout_width="-2" app:layout_height="-2" app:text="+10" />
+                </FrameLayout>
+            </LinearLayout>
+            <LinearLayout app:orientation="0" app:layout_width="-2" app:layout_height="-2" app:layout_toLeftOf="0x7f0a00b6" app:layout_alignParentTop="true" app:layout_alignParentRight="true" app:layout_centerVertical="true"
+                <LinearLayout app:gravity="15" app:orientation="0" app:id="0x7f0a00a9" app:visibility="0" app:clickable="true" app:layout_width="56dp" app:layout_height="56dp" app:layout_marginLeft="10dp" app:layout_marginRight="5dp">
+                    <ImageView app:id="0x7f0a00aa" app:visibility="0" app:layout_width="36dp" app:layout_height="36dp" app:src="0x7f02020a" />
+                    <ProgressBar app:id="0x7f0a00ab" app:visibility="2" app:layout_width="-2" app:layout_height="-2" />
+                </LinearLayout>
+                <ImageButton app:id="0x7f0a00da" app:background="0x7f08007f" app:layout_width="56dp" app:layout_height="56dp" app:src="0x7f020255" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <com.agimind.widget.SlideHolder android:id="0x7f0a00c1" android:layout_width="-1" android:layout_height="-1">
+        <ScrollView android:background="#2f2637" android:layout_width="268dp" android:layout_height="-1">
+            <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+                <RelativeLayout android:gravity="11" android:layout_width="-1" android:layout_height="-2">
+                    <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_alignParentRight="true">
+                        <com.shamchat.roundedimage.RoundedImageView android:id="0x7f0a00c2" android:layout_width="60dp" android:layout_height="60dp" android:layout_marginLeft="10dp" android:layout_marginTop="10dp" android:layout_marginBottom="10dp" android:src="0x7f0201b8" android:scaleType="1" android:corner_radius="200dp" />
+                        <LinearLayout android:gravity="11" android:orientation="1" android:layout_width="-2" android:layout_height="-2"
+                            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_weight="4.64">
+                                <com.shamchat.activity.Yekantext android:textSize="24sp" android:textColor="#fff" android:id="0x7f0a00c3" android:layout_width="-1" android:layout_height="-2" android:text="نام کاربر" />
+                            </LinearLayout>
+                            <LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_weight="4.64">
+                                <TableRow android:id="0x7f0a00c4" android:layout_width="-1" android:layout_height="-2" android:layout_weight="0.24">
+                                    <com.shamchat.activity.Yekantext android:textSize="16sp" android:textColor="#fff" android:id="0x7f0a00c5" android:layout_width="83dp" android:layout_height="-2" android:text="دنبال شونده" />
+                                    <com.shamchat.activity.Yekantext android:textSize="16sp" android:textColor="#fff" android:id="0x7f0a00c6" android:layout_width="80dp" android:layout_height="-2" android:text="دنبال کننده" />
+                                    <com.shamchat.activity.Yekantext android:textSize="16sp" android:textColor="#fff" android:id="0x7f0a00c7" android:layout_width="88dp" android:layout_height="-2" android:text="پست" />
+                                </TableRow>
+                            </LinearLayout>
+                            <LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_weight="4.64">
+                                <TableRow android:id="0x7f0a00c8" android:layout_width="-1" android:layout_height="-2">
+                                    <com.shamchat.activity.Yekantext android:textSize="16sp" android:textColor="#fff" android:id="0x7f0a00c9" android:layout_width="83dp" android:layout_height="-2" android:text="0" />
+                                    <com.shamchat.activity.Yekantext android:textSize="16sp" android:textColor="#fff" android:id="0x7f0a00ca" android:layout_width="83dp" android:layout_height="-2" android:text="0" />
+                                    <com.shamchat.activity.Yekantext android:textSize="16sp" android:textColor="#fff" android:id="0x7f0a00cb" android:layout_width="83dp" android:layout_height="-2" android:text="0" />
+                                </TableRow>
+                            </LinearLayout>
+                        </LinearLayout>
+                    </LinearLayout>
+                </RelativeLayout>
+            </LinearLayout>
+        </ScrollView>
+        <LinearLayout android:orientation="1" android:id="0x7f0a00cc" android:layout_width="-1" android:layout_height="-1">
+            <android.support.v4.view.ViewPager android:id="0x7f0a00cd" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+            <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0a00a3" android:background="0x7f08007f" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="1dp">
+                <ImageView android:padding="2dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020224" />
+                <com.shamchat.activity.Yekanedit android:id="0x7f0a00a8" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="6dp" android:layout_marginBottom="1dp" android:maxLines="1" android:layout_weight="0.55" android:inputType="4001" />
+                <requestFocus />
+                <ImageButton android:id="0x7f0a00ce" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020065" />
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+                <ImageView android:id="0x7f0a00cf" android:layout_width="-1" android:layout_height="-2" android:src="0x7f0201b6" />
+            </LinearLayout>
+            <LinearLayout android:orientation="0" android:background="#202020" android:layout_width="-1" android:layout_height="58dp">
+                <ImageButton android:id="0x7f0a00d0" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f020181" android:layout_weight="1.0" style="0x7f0d0148" />
+                <ImageButton android:id="0x7f0a00d1" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f020182" android:layout_weight="1.0" style="0x7f0d0148" />
+                <ImageButton android:id="0x7f0a00d2" android:visibility="2" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f020167" android:layout_weight="1.0" style="0x7f0d0148" />
+                <ImageButton android:id="0x7f0a00d3" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f0200d6" android:layout_weight="1.0" style="0x7f0d0148" />
+                <ImageButton android:id="0x7f0a00d4" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f0200d7" android:layout_weight="1.0" style="0x7f0d0148" />
+                <ImageButton android:id="0x7f0a00d5" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f0200d4" android:layout_weight="1.0" style="0x7f0d0148" />
+                <ImageButton android:id="0x7f0a00d6" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f0200d5" android:layout_weight="1.0" style="0x7f0d0148" />
+                <ImageButton android:id="0x7f0a00d7" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f020227" android:layout_weight="1.0" style="0x7f0d0148" />
+                <com.shamchat.activity.Yekantext android:textColor="0x7f08008a" android:id="0x7f0a00d8" android:layout_width="0dp" android:layout_height="-1" android:layout_marginTop="3dp" android:text="0x7f0c008a" android:layout_weight="1.0" />
+                <ImageButton android:id="0x7f0a00d9" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f020228" android:layout_weight="1.0" style="0x7f0d0148" />
+            </LinearLayout>
+        </LinearLayout>
+    </com.agimind.widget.SlideHolder>
+</LinearLayout>

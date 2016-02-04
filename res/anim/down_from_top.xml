@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:shareInterpolator="0x10a0006">
+    <translate android:duration="400" android:fromXDelta="0%" android:toXDelta="0%" android:fromYDelta="-100%" android:toYDelta="0%" />
+</set>

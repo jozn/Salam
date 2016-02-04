@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="#ffffff" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="10" android:orientation="0" android:background="0x7f08007f" android:layout_width="-1" android:layout_height="60dp" android:weightSum="10.0">
+        <ImageButton android:id="0x7f0a02d1" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:focusable="false" android:focusableInTouchMode="false" android:layout_width="0dp" android:layout_height="38dp" android:layout_marginLeft="5dp" android:src="0x7f0200de" android:scaleType="3" android:adjustViewBounds="true" android:cropToPadding="true" android:layout_weight="1.0" />
+        <com.shamchat.activity.Yekanedit android:textSize="12sp" android:textStyle="1" android:textColor="#ffffff" android:id="0x7f0a02d2" android:background="0x7f020216" android:paddingLeft="10dp" android:layout_width="0dp" android:layout_height="40dp" android:layout_marginLeft="10dp" android:layout_marginTop="4dp" android:layout_marginRight="10dp" android:layout_marginBottom="4dp" android:hint="0x7f0c00f8" android:ems="10" android:layout_weight="9.0" android:inputType="1" android:imeOptions="3" />
+        <requestFocus />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:background="0x7f020248" android:visibility="2" android:layout_width="-1" android:layout_height="40dp" android:layout_marginLeft="20dp" android:layout_marginTop="15dp" android:layout_marginRight="20dp" android:weightSum="3.0"
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f0a02d3" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+            <com.shamchat.activity.Yekantext android:textSize="16sp" android:textColor="#ffffff" android:gravity="11" android:id="0x7f0a02d4" android:background="#8b8c8e" android:layout_width="-1" android:layout_height="-1" android:text="0x7f0c01e8" />
+        </LinearLayout>
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f0a02d5" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+            <com.shamchat.activity.Yekantext android:textSize="16sp" android:textColor="#8b8c8e" android:gravity="11" android:id="0x7f0a02d6" android:layout_width="-1" android:layout_height="-1" android:text="0x7f0c01e7" />
+        </LinearLayout>
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f0a02d7" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+            <com.shamchat.activity.Yekantext android:textSize="16sp" android:textColor="#8b8c8e" android:gravity="11" android:id="0x7f0a02d8" android:layout_width="-1" android:layout_height="-1" android:text="0x7f0c01e9" />
+        </LinearLayout>
+    </LinearLayout>
+    <android.support.v4.view.ViewPager android:id="0x7f0a02d9" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="5dp" />
+</LinearLayout>

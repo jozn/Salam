@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:background="0x7f08007f" android:layout_width="-1" android:layout_height="25dp" android:weightSum="50.0"
+    <LinearLayout android:layout_width="-1" android:layout_height="-1" android:layout_weight="45.0">
+        <com.shamchat.activity.Yekanbtn android:id="0x7f0a0172" android:background="0x7f0201e6" android:layout_width="-1" android:layout_height="-1" android:layout_margin="8dp" />
+    </LinearLayout>
+    <LinearLayout android:gravity="11" android:layout_width="-1" android:layout_height="-1" android:layout_weight="5.0">
+        <com.shamchat.activity.Yekanedit android:textColor="0x7f08008a" android:id="0x7f0a002c" android:background="0x7f020216" android:layout_width="-1" android:layout_height="25dp" android:layout_marginLeft="2dp" android:maxLines="1" android:ems="10" android:inputType="4001" />
+        <requestFocus />
+    </LinearLayout>
+</LinearLayout>

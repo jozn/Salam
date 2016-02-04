@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.shamchat.activity.Yekantext android:id="0x7f0a0223" android:focusable="true" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:text="" style="?unknown_attr_ref: 7f010006" />
+    <ExpandableListView android:id="0x102000a" android:focusable="true" android:fadingEdge="0" android:layout_width="-1" android:layout_height="-1" android:scrollingCache="true" android:cacheColorHint="#0000" android:groupIndicator="0x7f020180" android:divider="#0000" />
+    <com.shamchat.activity.Yekantext android:textSize="18sp" android:gravity="11" android:id="0x1020004" android:layout_width="-1" android:layout_height="-1" android:text="0x7f0c00c7" />
+</LinearLayout>

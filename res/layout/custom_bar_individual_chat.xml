@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="25dp" android:weightSum="50.0"
+    <LinearLayout android:background="0x7f08007f" android:layout_width="-1" android:layout_height="-1" android:weightSum="65.0" android:layout_weight="5.0"
+        <LinearLayout android:layout_width="-1" android:layout_height="-1" android:layout_weight="59.0">
+            <com.shamchat.activity.Yekanbtn android:id="0x7f0a0172" android:background="0x7f0201e6" android:layout_width="-1" android:layout_height="-1" android:layout_margin="5dp" />
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:id="0x7f0a0030" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginRight="8dp"
+            <LinearLayout android:id="0x7f0a0031" android:layout_width="-2" android:layout_height="-2"
+                <LinearLayout android:orientation="1" android:id="0x7f0a0033" android:layout_width="-2" android:layout_height="-2">
+                    <com.shamchat.activity.Yekantext android:textSize="20sp" android:textColor="0x7f08008a" android:id="0x7f0a002f" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="15dp" android:text="" android:maxEms="6" android:singleLine="true" />
+                    <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:textSize="9sp" android:textColor="0x7f08008a" android:id="0x7f0a0034" android:layout_width="-2" android:layout_height="-2" android:text="" />
+                </LinearLayout>
+                <ImageView android:layout_gravity="11" android:id="0x7f0a0035" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="1dp" android:src="0x7f0201ee" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

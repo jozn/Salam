@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.shamchat.activity.Yekantext android:textSize="20sp" android:textColor="0x7f08007f" android:id="0x7f0a0174" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="13dp" android:text="0x7f0c0247" />
+    <View android:orientation="0" android:background="0x7f080058" android:layout_width="-1" android:layout_height="1dp" android:layout_marginLeft="7dp" android:layout_marginRight="7dp" />
+</merge>

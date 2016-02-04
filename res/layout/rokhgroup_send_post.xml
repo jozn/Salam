@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:paddingLeft="0x7f090043" android:paddingRight="0x7f090043" android:layout_width="-1" android:layout_height="-2">
+    <ScrollView android:id="0x7f0a009e" android:layout_width="-1" android:layout_height="-2">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+            <FrameLayout android:layout_width="-1" android:layout_height="-2">
+                <ImageView android:id="0x7f0a02b8" android:background="#ffeeeeee" android:layout_width="-1" android:layout_height="220.7dp" android:layout_marginTop="4dp" android:layout_marginBottom="4dp" android:scaleType="3" />
+                <LinearLayout android:layout_gravity="11" android:orientation="0" android:id="0x7f0a02b9" android:layout_width="-2" android:layout_height="-2">
+                    <ProgressBar android:layout_width="-2" android:layout_height="-2" style="?unknown_attr_ref: 1010077" />
+                </LinearLayout>
+            </FrameLayout>
+            <LinearLayout android:gravity="11" android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="5dp" android:weightSum="3.0">
+                <Button android:textSize="16sp" android:id="0x7f0a02ba" android:background="0x7f02025c" android:layout_width="100dp" android:layout_height="100dp" android:layout_weight="1.0" />
+                <Button android:textSize="16sp" android:id="0x7f0a02bb" android:background="0x7f020095" android:layout_width="100dp" android:layout_height="100dp" android:layout_weight="1.0" />
+                <Button android:textSize="16sp" android:id="0x7f0a02bc" android:background="0x7f020176" android:layout_width="100dp" android:layout_height="100dp" android:layout_weight="1.0" />
+            </LinearLayout>
+            <com.shamchat.activity.Yekantext android:layout_width="-1" android:layout_height="-2" android:text="0x7f0c01c0" />
+            <com.shamchat.activity.Yekanedit android:id="0x7f0a02bd" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="5dp" android:ems="10">
+                <requestFocus />
+            </com.shamchat.activity.Yekanedit>
+            <com.shamchat.activity.Yekanbtn android:textSize="16sp" android:textColor="#ffffff" android:id="0x7f0a02be" android:background="0x7f0200e6" android:layout_width="-1" android:layout_height="48dp" android:text="ارسال پست" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

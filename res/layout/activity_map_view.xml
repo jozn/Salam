@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingLeft="0x7f090043" android:paddingTop="0x7f090044" android:paddingRight="0x7f090043" android:paddingBottom="0x7f090044" android:layout_width="-1" android:layout_height="-1">
+    <fragment android:id="0x7f0a00f4" android:layout_width="-1" android:layout_height="-1" class="com.google.android.gms.maps.SupportMapFragment" />
+</RelativeLayout>

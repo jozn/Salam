@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-1">
+    <com.shamchat.roundedimage.RoundedImageView app:id="0x7f0a00c2" app:layout_width="60dp" app:layout_height="60dp" app:layout_marginLeft="10dp" app:layout_marginTop="20dp" app:layout_marginBottom="20dp" app:src="0x7f0201b8" app:scaleType="6" app:corner_radius="8dp" />
+    <LinearLayout app:orientation="1" app:paddingLeft="10dp" app:layout_width="-1" app:layout_height="-2" app:layout_marginTop="20dp" app:layout_marginBottom="20dp"
+        <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2">
+            <com.shamchat.activity.Yekantext app:textAppearance="?unknown_attr_ref: 1010041" app:textColor="0x7f08007f" app:id="0x7f0a01f5" app:layout_width="-2" app:layout_height="-2" app:text="Name" />
+            <com.shamchat.activity.Yekantext app:textColor="0x7f080058" app:gravity="5" app:id="0x7f0a01ea" app:layout_width="-1" app:layout_height="-2" app:layout_marginRight="6dp" app:text="Today" />
+        </LinearLayout>
+        <ViewStub app:id="0x7f0a01f6" app:layout="0x7f030071" app:layout_width="-1" app:layout_height="-2" />
+        <ViewStub app:id="0x7f0a01f7" app:layout="0x7f030073" app:layout_width="-1" app:layout_height="-2" />
+    </LinearLayout>
+</LinearLayout>

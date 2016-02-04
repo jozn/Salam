@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <EditText android:textSize="18sp" android:id="0x7f0a02f7" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="20dp" android:hint="0x7f0c01c0" android:singleLine="true" />
+    <LinearLayout android:orientation="0" android:background="#ffffffff" android:layout_width="-1" android:layout_height="48dp" android:layout_marginLeft="20dp" android:layout_marginTop="10dp" android:layout_marginRight="20dp" android:layout_marginBottom="10dp">
+        <RadioGroup android:gravity="10" android:orientation="0" android:id="0x7f0a02f8" android:layout_width="-1" android:layout_height="-1">
+            <RadioButton android:textColor="#ff627a7b" android:gravity="15" android:id="0x7f0a02f9" android:layout_width="0dp" android:layout_height="-2" android:button="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:text="0x7f0c01e1" android:drawableRight="0x7f02020c" android:layout_weight="1.0" />
+            <RadioButton android:textColor="#ff627a7b" android:gravity="15" android:id="0x7f0a02fa" android:layout_width="0dp" android:layout_height="-2" android:checked="true" android:button="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:text="0x7f0c01e0" android:drawableRight="0x7f02020c" android:layout_weight="1.0" />
+        </RadioGroup>
+    </LinearLayout>
+</LinearLayout>

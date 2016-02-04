@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="50" android:background="0x7f08008a" android:layout_width="-1" android:layout_height="-2">
+    <GridView android:gravity="11" android:id="0x7f0a01c8" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" android:horizontalSpacing="10dp" android:verticalSpacing="10dp" android:stretchMode="2" android:columnWidth="60dp" android:numColumns="-1" />
+</RelativeLayout>

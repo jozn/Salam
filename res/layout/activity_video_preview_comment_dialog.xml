@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:id="0x7f0a00cc" android:background="#000" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:id="0x7f0a012c" android:layout_width="-1" android:layout_height="-1" android:layout_above="0x7f0a012d" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:layout_alignParentRight="true">
+        <VideoView android:layout_gravity="11" android:id="0x7f0a012e" android:layout_width="-1" android:layout_height="-1" android:layout_margin="15dp" />
+    </LinearLayout>
+    <LinearLayout android:id="0x7f0a012d" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_alignParentBottom="true">
+        <RelativeLayout android:id="0x7f0a00e4" android:background="0x7f08007f" android:layout_width="-1" android:layout_height="50dp">
+            <com.shamchat.activity.Yekanedit android:id="0x7f0a00e5" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:hint="0x7f0c023f" android:ems="10" android:layout_centerInParent="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

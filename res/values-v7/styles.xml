@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="dialogBackground">
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="dialogEditText">
+        <item name="android:textColor">#ff000000</item>
+    </style>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="1" app:paddingTop="10dp" app:layout_width="-1" app:layout_height="-1">
+    <include app:visibility="2" layout="0x7f03007d" />
+    <LinearLayout app:orientation="0" app:id="0x7f0a01ca" app:background="0x7f0200e2" app:clickable="true" app:layout_width="-1" app:layout_height="-2" app:layout_margin="5dp"
+        <LinearLayout app:gravity="5" app:orientation="1" app:layout_width="0dp" app:layout_height="-1" app:layout_marginLeft="15dp" app:layout_weight="7.0">
+            <com.shamchat.activity.Yekantext app:textSize="16sp" app:textColor="0x7f080044" app:id="0x7f0a0176" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="12dp" app:text="0x7f0c0162" />
+            <com.shamchat.activity.Yekantext app:textSize="12sp" app:textColor="0x7f080045" app:id="0x7f0a01cc" app:layout_width="-2" app:layout_height="-2" app:text="" />
+        </LinearLayout>
+        <com.shamchat.roundedimage.RoundedImageView app:id="0x7f0a01cb" app:layout_width="60dp" app:layout_height="60dp" app:layout_marginLeft="2dp" app:src="0x7f0201b8" app:scaleType="1" app:corner_radius="200dp" />
+    </LinearLayout>
+</LinearLayout>

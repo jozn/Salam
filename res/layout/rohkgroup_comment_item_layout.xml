@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout app:orientation="1" app:paddingTop="5dp" app:paddingBottom="5dp" app:layout_width="-1" app:layout_height="-2">
+    <RelativeLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+        <com.shamchat.roundedimage.RoundedImageView app:id="0x7f0a0281" app:layout_width="30dp" app:layout_height="30dp" app:layout_marginLeft="10dp" app:layout_marginRight="0x7f090043" app:src="0x7f020203" app:scaleType="1" app:layout_alignParentRight="true" app:layout_centerVertical="true" app:corner_radius="200dp" />
+        <com.shamchat.activity.Yekantext app:textColor="#ff3575bd" app:id="0x7f0a025d" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="0dp" app:layout_toLeftOf="0x7f0a0281" app:layout_alignTop="0x7f0a0281" />
+        <com.shamchat.activity.Yekantext app:textColor="#ffa1a1a1" app:id="0x7f0a0282" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="0dp" app:layout_toLeftOf="0x7f0a0281" app:layout_below="0x7f0a025d" />
+    </RelativeLayout>
+    <com.shamchat.activity.Yekantext app:layout_gravity="5" app:id="0x7f0a0283" app:layout_width="-1" app:layout_height="-2" app:layout_marginLeft="0x7f090043" app:layout_marginTop="5dp" app:layout_marginRight="0x7f090043" />
+</LinearLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="11" android:orientation="0" android:layout_width="-1" android:layout_height="-1">
+    <com.shamchat.activity.Yekanedit android:id="0x7f0a002c" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="2dp" android:layout_marginTop="10dp" android:layout_marginRight="6dp" android:layout_marginBottom="10dp" android:maxLines="1" android:ems="10" android:layout_weight="1.0" android:inputType="4001" style="0x7f0d0096" />
+</LinearLayout>

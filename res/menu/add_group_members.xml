@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item yourapp:icon="0x7f020263" yourapp:id="0x7f0a02fd" yourapp:visible="false" yourapp:title="0x7f0c0243" yourapp:showAsAction="2" />
+    <item yourapp:icon="0x7f020183" yourapp:id="0x7f0a02fe" yourapp:title="0x7f0c01f9" yourapp:showAsAction="2" />
+</menu>

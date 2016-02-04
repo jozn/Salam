@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.shamchat.activity.Yekanedit android:id="@id/text" android:layout_width="-1" android:layout_height="-2" android:layout_margin="12dp" android:maxLines="6" android:ems="10" style="0x7f0d0096" />
+    <requestFocus />
+</LinearLayout>

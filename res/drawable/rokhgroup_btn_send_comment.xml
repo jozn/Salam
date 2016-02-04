@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_pressed="false">
+        <layer-list>
+            <item android:left="1dp" android:top="1dp" android:right="1dp" android:bottom="1dp">
+                <shape android:shape="0">
+                    <solid android:color="0x7f080023" />
+                    <corners android:radius="2dp" />
+                </shape>
+            </item>
+        </layer-list>
+    </item>
+    <item android:state_pressed="true">
+        <shape android:shape="0" android:left="2dp" android:top="2dp" android:right="0dp" android:bottom="0dp">
+            <solid android:color="0x7f080024" />
+            <corners android:radius="2dp" />
+        </shape>
+    </item>
+</selector>

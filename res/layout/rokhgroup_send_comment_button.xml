@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.shamchat.activity.Yekantext android:textSize="12sp" android:textColor="#ffffff" android:gravity="11" android:id="0x7f0a02b6" android:layout_width="-1" android:layout_height="-1" android:text="ارسال نظر" />
+    <com.shamchat.activity.Yekantext android:textSize="12sp" android:textColor="#ffffff" android:gravity="11" android:id="0x7f0a02b7" android:layout_width="-1" android:layout_height="-1" android:text="✓" />
+</merge>

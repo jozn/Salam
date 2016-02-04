@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:id="0x7f0a00cc" android:layout_width="-1" android:layout_height="-1" android:minWidth="1000dp" android:minHeight="1000dp">
+    <com.shamchat.gallery.ZoomableImageView android:id="0x7f0a00e3" android:background="0x7f080056" android:layout_width="-1" android:layout_height="-1" android:layout_above="0x7f0a00e4" />
+    <RelativeLayout android:layout_gravity="50" android:id="0x7f0a00e4" android:background="0x7f08007f" android:layout_width="-1" android:layout_height="50dp" android:layout_alignParentBottom="true">
+        <com.shamchat.activity.Yekanedit android:textColor="0x7f08008a" android:id="0x7f0a00e5" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:hint="0x7f0c0189" android:ems="10" android:layout_centerInParent="true" />
+        <requestFocus />
+    </RelativeLayout>
+</RelativeLayout>

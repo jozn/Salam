@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="30" android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ListView android:id="0x7f0a02cf" android:scrollbars="0" android:layout_width="-1" android:layout_height="-1" android:divider="0x106000d" android:dividerHeight="8.5dp" android:layout_weight="1.0" />
+    <com.shamchat.activity.Yekantext android:gravity="11" android:id="0x7f0a02d0" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:text="Currently you do not follow any person
+swipe to left and see other people posts!" />
+</LinearLayout>

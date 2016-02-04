@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0a00a3" android:background="0x7f08007f" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="1dp"
+        <LinearLayout android:gravity="11" android:layout_gravity="11" android:orientation="0" android:id="0x7f0a00a4" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+            <com.shamchat.activity.Yekanbtn android:textColor="#ffffff" android:gravity="15" android:id="0x7f0a00a5" android:background="0x7f0200e3" android:layout_width="-2" android:layout_height="-2" android:text="   سلامی ها" />
+            <com.shamchat.activity.Yekanbtn android:textColor="#ffffff" android:gravity="13" android:id="0x7f0a00a6" android:background="0x7f0200db" android:layout_width="-2" android:layout_height="-2" android:text="هـمـه   " />
+        </LinearLayout>
+        <LinearLayout android:id="0x7f0a00a7" android:layout_width="-1" android:layout_height="-1">
+            <ImageView android:padding="2dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020224" />
+            <com.shamchat.activity.Yekanedit android:id="0x7f0a00a8" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="6dp" android:maxLines="1" android:layout_weight="1.0" android:inputType="4001" style="0x7f0d0096">
+                <requestFocus />
+            </com.shamchat.activity.Yekanedit>
+            <LinearLayout android:gravity="15" android:orientation="0" android:id="0x7f0a00a9" android:visibility="0" android:clickable="true" android:layout_width="-2" android:layout_height="35dp" android:layout_marginLeft="10dp" android:layout_marginRight="5dp">
+                <ImageView android:id="0x7f0a00aa" android:visibility="0" android:layout_width="25dp" android:layout_height="25dp" android:src="0x7f02020a" />
+                <ProgressBar android:id="0x7f0a00ab" android:visibility="2" android:layout_width="-2" android:layout_height="-2" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <ListView android:id="0x7f0a00ac" android:layout_width="-1" android:layout_height="-1" />
+</LinearLayout>

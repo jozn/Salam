@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="5" android:orientation="1" android:background="0x7f08008a" android:layout_width="-1" android:layout_height="-1">
+    <FrameLayout android:orientation="1" android:id="0x7f0a025b" android:layout_width="-1" android:layout_height="90dp" android:layout_marginTop="88dp">
+        <ImageButton android:id="0x7f0a025c" android:background="0x7f020264" android:layout_width="-1" android:layout_height="-1" android:scaleType="6" />
+        <TextView android:textAppearance="?unknown_attr_ref: 1010041" android:textColor="0x7f08008a" android:layout_gravity="55" android:id="0x7f0a025d" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="80dp" android:layout_marginBottom="3dp" android:text="Medium Text" />
+    </FrameLayout>
+    <RelativeLayout android:gravity="10" android:id="0x7f0a025e" android:layout_width="90dp" android:layout_height="30dp" android:layout_below="0x7f0a025b">
+        <TextView android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x7f0a0260" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_marginTop="5dp" android:layout_marginRight="20dp" android:text="Medium" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+    </RelativeLayout>
+    <RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="230dp" android:layout_below="0x7f0a025e">
+        <com.markupartist.android.widget.PullToRefreshListView android:id="0x7f0a0261" android:layout_width="-1" android:layout_height="-2" android:stackFromBottom="true" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    </RelativeLayout>
+    <FrameLayout android:id="0x7f0a0262" android:layout_width="70dp" android:layout_height="70dp" android:layout_marginRight="5dp" android:layout_marginBottom="-30dp" android:layout_alignBottom="0x7f0a025b" android:layout_alignParentRight="true">
+        <ImageView android:id="0x7f0a0263" android:background="0x7f0201b8" android:layout_width="50dp" android:layout_height="50dp" android:scaleType="6" />
+    </FrameLayout>
+    <ImageView android:id="0x7f0a025f" android:layout_width="30dp" android:layout_height="30dp" android:layout_marginLeft="76dp" android:src="0x7f0201e3" android:layout_below="0x7f0a025b" android:layout_alignParentLeft="true" />
+</RelativeLayout>

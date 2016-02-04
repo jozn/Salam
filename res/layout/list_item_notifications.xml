@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="0" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:minHeight="48dp">
+    <com.shamchat.activity.Yekantext android:textSize="20sp" android:id="@id/text" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginRight="8dp" android:text="settings name" android:layout_centerVertical="true" />
+    <CheckBox android:id="@id/checkbox" android:layout_width="-2" android:layout_height="-2" android:checkMark="?unknown_attr_ref: 101021a" android:layout_alignParentRight="true" android:layout_centerVertical="true" />
+</RelativeLayout>

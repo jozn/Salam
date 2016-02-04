@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="0x7f0d0150"
+    <LinearLayout android:gravity="5" android:orientation="0" android:id="0x7f0a018b" android:background="0x7f020073" android:paddingLeft="0x7f09004f" android:paddingRight="0x7f09004f" android:layout_width="-1" android:layout_height="0x7f09004d">
+        <TextView android:textSize="0x7f090051" android:textColor="#ff0f9d58" android:gravity="10" android:layout_gravity="5" android:id="0x7f0a018c" android:background="@mqttconnectoptions/MQTT_VERSION_DEFAULT" android:paddingRight="0x7f09004f" android:layout_width="-1" android:layout_height="0x7f09004d" style="0x7f0d0089" />
+    </LinearLayout>
+    <ScrollView android:id="0x7f0a018d" android:background="0x7f020071" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+        <LinearLayout android:gravity="11" android:orientation="1" android:id="0x7f0a018e" android:layout_width="-1" android:layout_height="-2" />
+    </ScrollView>
+    <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f0a018f" android:background="0x7f02008a" android:padding="0dp" android:layout_width="-1" android:layout_height="-2" /> />

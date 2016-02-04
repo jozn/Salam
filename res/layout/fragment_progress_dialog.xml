@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="11" android:id="0x7f0a00cc" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:id="0x7f0a01b9" android:layout_width="244dp" android:layout_height="-2">
+        <ProgressBar android:id="0x7f0a00e1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" style="?unknown_attr_ref: 101007a" />
+        <com.shamchat.activity.Yekantext android:textSize="15sp" android:textColor="0x7f08000b" android:layout_gravity="11" android:id="0x7f0a0085" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="20dp" android:layout_marginRight="10dp" android:text="Loading..." />
+    </LinearLayout>
+</LinearLayout>

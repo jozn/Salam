@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:id="0x7f0a01f0" android:layout_width="-2" android:layout_height="-2" android:layout_margin="5dp">
+        <ImageView android:id="0x7f0a0087" android:layout_width="30dp" android:layout_height="30dp" android:src="0x7f0201b8" />
+        <LinearLayout android:orientation="1" android:id="0x7f0a01f1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="5dp"
+            <LinearLayout android:id="0x7f0a01f2" android:layout_width="-2" android:layout_height="-2">
+                <com.shamchat.activity.Yekantext android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:id="0x7f0a01f3" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="7dp" android:text="" />
+                <com.shamchat.activity.Yekantext android:textSize="10sp" android:id="0x7f0a0083" android:layout_width="-2" android:layout_height="-2" android:text="3 minutes ago" />
+            </LinearLayout>
+            <TextView android:textSize="11sp" android:id="0x7f0a01f4" android:layout_width="-2" android:layout_height="-2" android:text="Hello this is a comment" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

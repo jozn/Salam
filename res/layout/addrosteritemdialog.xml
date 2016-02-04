@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="1" android:id="0x7f0a0134" android:paddingLeft="10dp" android:paddingTop="10dp" android:paddingRight="10dp" android:paddingBottom="15dp" android:layout_width="-1" android:layout_height="-2">
+        <com.shamchat.activity.Yekantext android:id="0x7f0a0135" android:paddingBottom="20dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0c0064" style="?unknown_attr_ref: 7f01000a" />
+        <com.shamchat.androidclient.widget.AutoCompleteJidEdit android:textSize="18sp" android:gravity="3" android:id="0x7f0a0136" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="20dp" android:maxWidth="200sp" android:hint="0x7f0c0010" android:singleLine="true" android:inputType="21" android:imeOptions="5" style="0x7f0d0152" />
+        <com.shamchat.activity.Yekanedit android:textSize="18sp" android:gravity="3" android:id="0x7f0a0137" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="20dp" android:maxWidth="200sp" android:hint="0x7f0c0066" android:singleLine="true" style="0x7f0d0152" />
+        <com.shamchat.androidclient.dialogs.GroupNameView android:orientation="1" android:id="0x7f0a0138" android:layout_width="-1" android:layout_height="-2" />
+    </LinearLayout>
+</ScrollView>

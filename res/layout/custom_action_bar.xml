@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="30dp" android:weightSum="75.0"
+    <LinearLayout android:orientation="1" android:id="0x7f0a0178" android:layout_width="-1" android:layout_height="-1" android:weightSum="10.0" android:layout_weight="25.0"
+        <LinearLayout android:background="0x7f08007f" android:layout_width="-1" android:layout_height="-1" android:weightSum="65.0" android:layout_weight="1.0"
+            <LinearLayout android:layout_width="-1" android:layout_height="-1" android:layout_weight="25.0" />
+            <LinearLayout android:paddingBottom="5dp" android:layout_width="-1" android:layout_height="-1" android:layout_weight="15.0">
+                <Button android:id="0x7f0a0179" android:background="0x7f020243" android:layout_width="-1" android:layout_height="-1" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="-1" android:layout_height="-1" android:layout_weight="25.0" /> />
+        <LinearLayout android:id="0x7f0a017a" android:background="#84b8f8" android:visibility="1" android:layout_width="-1" android:layout_height="-1" android:layout_weight="9.0" /> />
+    <LinearLayout android:orientation="1" android:id="0x7f0a0178" android:layout_width="-1" android:layout_height="-1" android:weightSum="10.0" android:layout_weight="25.0"
+        <LinearLayout android:background="0x7f08007f" android:layout_width="-1" android:layout_height="-1" android:weightSum="65.0" android:layout_weight="1.0"
+            <LinearLayout android:layout_width="-1" android:layout_height="-1" android:layout_weight="25.0" />
+            <LinearLayout android:paddingBottom="5dp" android:layout_width="-1" android:layout_height="-1" android:layout_weight="15.0">
+                <Button android:id="0x7f0a017b" android:background="0x7f02023f" android:layout_width="-1" android:layout_height="-1" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="-1" android:layout_height="-1" android:layout_weight="25.0" /> />
+        <LinearLayout android:id="0x7f0a017c" android:background="#84b8f8" android:visibility="1" android:layout_width="-1" android:layout_height="-1" android:layout_weight="9.0" /> />
+    <LinearLayout android:orientation="1" android:id="0x7f0a0178" android:layout_width="-1" android:layout_height="-1" android:weightSum="10.0" android:layout_weight="25.0"
+        <LinearLayout android:background="0x7f08007f" android:layout_width="-1" android:layout_height="-1" android:weightSum="65.0" android:layout_weight="1.0"
+            <LinearLayout android:layout_width="-1" android:layout_height="-1" android:layout_weight="25.0" />
+            <LinearLayout android:paddingBottom="5dp" android:layout_width="-1" android:layout_height="-1" android:layout_weight="15.0">
+                <Button android:id="0x7f0a017d" android:background="0x7f020241" android:layout_width="-1" android:layout_height="-1" />
+            </LinearLayout>
+            <LinearLayout android:layout_width="-1" android:layout_height="-1" android:layout_weight="25.0" /> />
+        <LinearLayout android:id="0x7f0a017e" android:background="#84b8f8" android:visibility="1" android:layout_width="-1" android:layout_height="-1" android:layout_weight="9.0" /> /> />
